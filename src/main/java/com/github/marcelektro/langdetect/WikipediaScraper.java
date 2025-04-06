@@ -2,35 +2,78 @@ package com.github.marcelektro.langdetect;
 
 import javax.net.ssl.HttpsURLConnection;
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.InputStreamReader;
 import java.net.*;
 import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
 import java.util.HashMap;
+import java.util.List;
 
 public class WikipediaScraper {
 
     public static void main(String[] args) throws Exception{
 
-        var in = new HashMap<String, String>(){{
-            put("en", "Knowledge");
-            put("pl", "Wiedza");
-            put("es", "Conocimiento");
-            put("fr", "Connaissance");
+        final var in = new HashMap<String, List<String>>(){{
+            put("en", List.of(
+                    "Knowledge",
+                    "Human",
+                    "Science",
+                    "Computer",
+                    "Language",
+                    "Computer_programming"
+            ));
+            put("pl", List.of(
+                    "Wiedza",
+                    "Człowiek_rozumny",
+                    "Nauka",
+                    "Komputer",
+                    "Język_(mowa)",
+                    "Programowanie_komputerów"
+            ));
+            put("es", List.of(
+                    "Conocimiento",
+                    "Homo_sapiens",
+                    "Ciencia",
+                    "Computadora",
+                    "Lenguaje",
+                    "Programación"
+            ));
+            put("fr", List.of(
+                    "Connaissance",
+                    "Homo_sapiens",
+                    "Science",
+                    "Ordinateur",
+                    "Langage",
+                    "Programmation_informatique"
+            ));
         }};
 
-        int numChars = 2_000;
+        final var outputDir = new File("./scraped/");
 
-        for (var entry : in.entrySet()) {
-            String lang = entry.getKey();
-            String topic = entry.getValue();
+        if (outputDir.mkdirs())
+            System.out.println("[WikipediaScraper] Created output dir.");
 
-            String result = scrapeWikipedia(lang, topic, numChars);
-            System.out.println("Result for " + lang + ": " + result);
+        for (final var entry : in.entrySet()) {
+            final var lang = entry.getKey();
+
+            final var langDir = new File(outputDir, lang);
+
+            if (langDir.mkdirs())
+                System.out.println("[WikipediaScraper] Created lang output dir.");
+
+            final var topics = entry.getValue();
+
+            for (final var topic : topics) {
+                final var outputFile = new File(langDir, "wiki_" + topic + ".txt");
+
+                scrapeWikipedia(lang, topic, outputFile);
+            }
         }
     }
 
 
-    public static String scrapeWikipedia(String lang, String topic, int numChars) throws Exception {
+    public static void scrapeWikipedia(String lang, String topic, File outputFile) throws Exception {
 
         final var jsonResponse = retrieveWikiAsString(lang, topic);
 
@@ -38,28 +81,8 @@ public class WikipediaScraper {
                 .replace("\\n", "\n")
                 .replace("\\\"", "\"");
 
-        // get the first numChars, but counting only by a-z chars
-        final var result = new StringBuilder();
+        Files.writeString(outputFile.toPath(), text);
 
-        int charCount = 0;
-        for (char c : text.toCharArray()) {
-
-            if (Character.isLetter(c)) {
-                charCount++;
-
-                if (charCount > numChars)
-                    break;
-            }
-
-            result.append(c);
-        }
-
-        // should not happen
-        if (result.isEmpty()) {
-            throw new RuntimeException("No content found for the given topic.");
-        }
-
-        return result.toString().trim();
     }
 
 
