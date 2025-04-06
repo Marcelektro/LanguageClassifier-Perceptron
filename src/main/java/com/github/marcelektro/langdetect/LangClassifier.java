@@ -23,7 +23,7 @@ public class LangClassifier {
         }
 
         final var languages = getLanguageDirectories(scrapedDataDir);
-        this.loadDataToMemory(languages);
+        loadDataToMemory(this.langTrainData, languages, 50_000);
 
         for (String lang : this.langTrainData.keySet()) {
             System.out.println("[Init] Initializing " + lang);
@@ -85,7 +85,7 @@ public class LangClassifier {
     }
 
 
-    private String readStringFromFile(File file, int charsLimit) {
+    public static String readStringFromFile(File file, int charsLimit) {
         try {
 
             final var str = Files.readString(file.toPath());
@@ -112,7 +112,7 @@ public class LangClassifier {
 
 
 
-    private void loadDataToMemory(File[] languages) {
+    public static void loadDataToMemory(Map<String, List<String>> langTrainData, File[] languages, int charsLimit) {
 
         for (File languageDir : languages) {
             final var lang = languageDir.getName();
@@ -128,20 +128,20 @@ public class LangClassifier {
 
             for (File file : files) {
                 try {
-                    final var str = readStringFromFile(file, 50_000);
+                    final var str = readStringFromFile(file, charsLimit);
                     data.add(str);
                 } catch (Exception e) {
                     throw new RuntimeException("Error reading file " + file.getName(), e);
                 }
             }
 
-            this.langTrainData.put(lang, data);
+            langTrainData.put(lang, data);
         }
 
     }
 
 
-    private File[] getLanguageDirectories(File scrapedDataDir) {
+    public static File[] getLanguageDirectories(File scrapedDataDir) {
         final var languages = scrapedDataDir.listFiles(file -> {
             if (!file.isDirectory()) {
                 System.out.println("Skipping " + file.getName() + " as it is not a directory");
@@ -176,7 +176,7 @@ public class LangClassifier {
             final var perceptron = entry.getValue();
             final var score = perceptron.compute(freq);
 
-            System.out.println("Score for " + lang + ": " + score);
+//            System.out.println("Score for " + lang + ": " + score);
 
             if (score > bestScore) {
                 bestScore = score;

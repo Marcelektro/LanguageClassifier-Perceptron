@@ -12,6 +12,11 @@ public class Main {
         classifier.loadScrapedData(new File("./scraped/"));
 
 
+        var classifierEvaluator = new LangClassifierEvaluator();
+        classifierEvaluator.loadScrapedData(new File("./scraped_testing/"));
+
+        classifierEvaluator.evaluate(classifier);
+
 
         var s = new Scanner(System.in);
         while (!Thread.currentThread().isInterrupted()) {
