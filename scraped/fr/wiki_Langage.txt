@@ -1,0 +1,123 @@
+Le langage est la capacité d'exprimer une pensée et de communiquer au moyen d'un système de signes (vocaux, gestuel, graphiques, tactiles, olfactifs) doté d'une sémantique, et le plus souvent d'une syntaxe — mais ce n'est pas systématique (la cartographie est un exemple de langage non syntaxique). Fruit d'une acquisition, la langue est une des nombreuses manifestations du langage.
+Cet article traite du langage de tous les êtres vivants. Pour l'espèce humaine, voir Langage humain.
+
+
+== Le langage comme système de communication ==
+Les langages sont constitués de signaux correspondant au support physique de l'information. L'émission de ces signaux est permise grâce à diverses structures dont l'évolution a permis un perfectionnement de la communication.
+
+
+=== Structures et mécanismes associés ===
+
+
+==== Signaux visuels ====
+Les gestes sont la méthode de communication la plus connue, utilisée par diverses espèces dont l’ensemble des primates. C’est également le cas des abeilles et leurs danses : lorsqu’une abeille exploratrice revient vers sa ruche après avoir trouvé une source de nectar, elle peut effectuer une danse en rond indiquant que cette source se situe à moins de 50 mètres, ou une danse en huit indiquant que cette source est plus lointaine. De plus, la vitesse et la durée de ces danses témoignent de l’abondance du nectar.
+
+L'expression faciale, plus répandue, permet de deviner certaines émotions d'un animal, afin d'agir en conséquence. Ainsi, on saura par exemple qu'un chien est en colère lorsqu'il montre ses dents.
+Le changement de couleur et bioluminescence peut varier en fonction d'une période de reproduction, d'un état de santé ou d'un milieu environnemental.
+
+
+==== Signaux acoustiques ====
+Les signaux acoustiques incluent la communication vocale, essentielle pour de nombreuses espèces telles que les oiseaux, les baleines (possédant plusieurs dialectes en fonction des régions), les singes ou encore les chiens de prairie utilisant un des systèmes de communication les plus complexes en pouvant décrire le type de prédateurs, sa taille et sa vitesse à ses congénères,.
+
+Il existe aussi des signaux acoustiques basés sur la vibration du substrat : les éléphants par exemple émettent des signaux vibratoires en frappant le sol de leurs pattes pouvant être reçus par d’autres éléphants à plusieurs kilomètres de distance.
+
+
+==== Signaux chimiques ====
+C’est la méthode de communication la plus ancienne, mais pourtant celle qui est la moins comprise en raison de l’abondance d’autres substances chimiques dans l’environnement ainsi que de la difficulté à détecter et mesurer. Les fonctions de ces signaux se sont beaucoup diversifiées, ils peuvent jouer un rôle important dans la communication intra et interspécifique, ainsi que dans la détection de ressources.
+Ce système peut atteindre des hauts niveaux de complexité, permettant des relations intraspécifiques eusociales comme chez les fourmis.
+
+
+==== Signaux tactiles ====
+Le toucher peut être un facteur important lors des interactions sociales, des combats (pour défier un adversaire) ou de la reproduction.
+Ces signaux sont également utilisés dans les stratégies de « huddling » (agrégation d’individus).
+
+
+==== Signaux électriques ====
+Beaucoup plus rare, l’électro-communication, réalisable dans l’eau uniquement, permet de générer un champ électrique détecté par des électro-récepteurs. Les différences d’amplitude et de fréquence de ce champ permettent de transmettre des informations sur l’espèce, le sexe, l’état de santé de l’individu.      
+Ces signaux ne sont exploitables que s’ils respectent quatre étapes : production, transmission, réception et interprétation. 
+La production constitue à elle seule une grande partie des coûts associés, puisqu’elle va souvent nécessiter la présence d’organes spécialisés (larynx des mammifères, glandes phéromonales des abeilles…) De plus, à l’organe en lui-même, se rajoute le coût de la présence d’un contrôle nerveux et éventuellement hormonal (noyaux du chant dans le cerveau des oiseaux).
+La transmission est le moment pendant lequel le signal va traverser un « canal de transmission », modifiant plus ou moins au passage le signal émis. Cette modification peut éventuellement créer des pressions de sélection, sélectionnant par exemple les individus dont l’organe émetteur est le plus adapté, de sorte que l’animal récepteur reçoit l’information émise avec le plus de précision possible.
+La réception du signal représente l’autre grande partie des coûts associés à la communication, nécessitant la transduction en signaux nerveux au niveau de structures réceptrices permettant la chimio-réception, photo-récepetion, audition...
+Un récepteur sensoriel peut être considéré comme un filtre sensible à un certain panel de signaux (oreille de chauve-souris sensible aux ultrasons, pas l’oreille humaine).
+Enfin, l’interprétation des signaux passe par le système nerveux central qui va reconnaitre, classer le signal puis traiter l’information (ex. : rôle des aires associatives corticales chez les vertébrés).
+
+
+=== Évolution de la communication ===
+La morphologie et la physiologie d’un animal limitent les différentes possibilités d’émission et de réception. Ces contraintes résultent le plus souvent de la phylogénie (ex. les oiseaux chanteurs ont une syrinx et un contrôle nerveux moteur associé qui leur permet d'émettre des signaux acoustiques potentiellement complexes ; les crocodiles n'ont pas d'organe émetteur d'onde sonore spécialisé). On constate chez la plupart des espèces une coévolution émetteur-récepteur, mettant en relation les caractéristiques d’un signal émis et les possibilités de réception de l’individu récepteur. Ceci permet à chaque animal d’avoir une gamme de communication potentielle. Ainsi, on pourra avoir une diversité de celle-ci au niveau des espèces, des populations ou même des individus permettant au langage d’évoluer via les pressions de sélection. La sélection sexuelle peut aussi jouer un rôle très important dans l’évolution de la communication et du langage via la théorie du handicap ou encore le runaway de Fisher.
+
+
+== Langage humain ==
+
+« Le mot “langage” désigne un ensemble d'activités mises en œuvre par un individu lorsqu'il parle, écoute, réfléchit, essaie de comprendre […] lit et écrit. »
+
+— Programme d'enseignement de l'école maternelle
+Chez l'être humain, le langage est la capacité observée d'exprimer une pensée et de communiquer entre autres au moyen d'un système de signes par un support extérieur ou non. Cette capacité comprend des fonctions linguistiques telles que :
+
+La phonétique (où l'on peut observer les actions physiques dans la bouche)
+La phonologie (les dessins qui sont présents à travers plusieurs langues et ceux qui ne sont que dans une langue spécifique).
+La syntaxe (la représentation des phrases et des mots dans l'esprit tout juste avant de parler)
+La pragmatique (les définitions qu'on trouve en parlant qui sont moins évidentes et imagées mais aussi typiques pour ceux qui parlent la langue en question).
+Bien sûr un système aussi compliqué possède des nuances que les médias et d'autres publications utilisent afin de persuader ou de distraire l'auditoire auquel les paroles sont adressées. Très souvent, on voit que ces systèmes ne sont pas limités au langage vocal. L'écriture est souvent aussi véritablement efficace.
+En 1961, André Martinet a le premier relevé la double articulation du langage, qui singularise le langage humain (par opposition aux langages formels), mettant en évidence l'extraordinaire souplesse de sa combinatoire.
+Langages homme-machine :
+
+Langage formel (par opposition au langage naturel)
+Langage informatique
+Langage de programmation
+Langage de script
+Langage de balisage
+Lexiques spécialisés :
+
+Langage juridique
+Sociolectes :
+
+Langage SMS
+Langages à valeur sociale :
+
+Langage des fleurs
+Langage sexiste
+
+
+=== Philosophie du langage ===
+
+Selon Hegel, « on croit ordinairement […] que ce qu'il y a de plus haut c'est l'ineffable… Mais c'est là une opinion superficielle et sans fondement ; car en réalité l'ineffable c'est la pensée obscure, la pensée à l'état de fermentation, et qui ne devient claire que lorsqu'elle trouve le mot. Ainsi, le mot donne à la pensée son existence la plus haute et la plus vraie ». Il ajoute ailleurs : « C'est dans les mots que nous pensons ». Bergson pense que le langage ne nous est pas totalement acquis car on ne peut pas tout dire avec, on ne peut clairement expliquer un sentiment. C'est là notre seul problème.
+Selon Aristote, dans la mesure où nous parlons nous nous rapprochons pour former une cité. Dans la mesure où nous vivons en société, nous parlons pour échanger des informations, pour communiquer aux autres soit nos passions, soit un besoin. Le langage tire donc sa raison de la société et en est lui-même l'effet. Cette corrélation du langage et de la société explique le caractère conventionnel du langage, c'est-à-dire son fondement par des règles arbitraires éditées par l'être humain. Cet arbitraire est débattu dans Le Cratyle de Platon. Selon le sophiste Cratyle, le lien entre le mot et la chose désignée est fondé sur la « rectitude naturelle des noms ». Il affirme que les mots sont justes lorsqu'ils ressemblent à ce qu'ils désignent. Le lien serait donc naturel. Cependant, la fin du dialogue entre Cratyle et Socrate affirme l'impasse d'une telle théorie et cela malgré la séduction qu'elle exerce y compris sur Socrate. Ferdinand de Saussure, fondateur de la linguistique, définit le langage ainsi dans le Cours de linguistique générale écrit par ses étudiants : le langage est un système de signes qui unit par convention une idée, un concept et un son, une image acoustique. Selon lui, le lien entre la chose (signifié) et le mot composé d'une suite de sons (signifiant) n'est pas motivé, il est arbitraire : il n'existe aucun rapport intérieur entre le mot « sœur » et les sons [sœʁ] associé au mot. Une objection consisterait à dire que les onomatopées sont la preuve qu'il existe un lien motivé entre le signifié et le signifiant : le son de l'onomatopée imiterait le son provoqué par la chose désignée ; « cocorico » pour désigner le chant du coq par exemple. Ferdinand De Saussure répond que l'onomatopée reste arbitraire et donne pour preuve la variation de l'onomatopée selon les langues : en anglais, « cock-a-doodle-do » désigne à son tour le chant du coq et n'a a priori rien à voir avec son équivalent en français « cocorico ». De la même façon, nous pensons parfois que le mot « fouet » aurait un rapport naturel avec la chose fouet car il imiterait le sifflement de celui-ci. De Saussure nous rappelle qu'étymologiquement, le mot « fouet » désigne le hêtre, bois dont est fait le fouet et non son sifflement.
+
+
+== Langage machine ==
+Langage machine
+Langage intermédiaire
+
+
+== Langage animal ==
+
+
+== Notes et références ==
+
+
+=== Notes ===
+
+
+=== Références ===
+Cet article est partiellement ou en totalité issu de l'article intitulé « Évolution du langage » (voir la liste des auteurs).
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+Bibliographie de logique et de philosophie du langage
+
+
+=== Articles connexes ===
+
+
+=== Vidéographie ===
+Global Language Network, interview du chercheur Cesar Hidalgo (SeriousScience/YouTube, 2014)
+
+
+=== Liens externes ===
+
+Ressource relative à la santé : Medical Subject Headings  
+
+ Portail de la linguistique   Portail des langues   Portail de la société   Portail de la philosophie   Portail des sciences humaines et sociales"}}}}

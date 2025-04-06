@@ -1,0 +1,82 @@
+Programowanie komputerów – proces tworzenia programu komputerowego, który ma realizować określone zadania zdefiniowane w języku programowania. Kod źródłowy jest napisany w języku programowania.
+Między programistami trwają debaty, czy programowanie komputerów jest sztuką, rzemiosłem czy procesem inżynieryjnym. Bezpośrednią formą sztuki w tej dziedzinie jest demoscena oraz gry komputerowe.
+Kolejną dyskusją dotyczącą tego procesu jest stopień, w jakim język programowania wpływa na sposób myślenia programistów przy pisaniu programów komputerowych. Jest ona analogiczna do hipotezy Sapira-Whorfa w lingwistyce. Programowanie zwykle wymaga wiedzy w dziedzinie algorytmów i struktur danych, języków i metodologii programowania, architektury komputerów i oprogramowania oraz wiedzy dziedzinowej, w zależności od powstającego programu. Z perspektywy inżynierii oprogramowania programowanie (implementacja) jest tylko jednym z etapów powstawania programu.
+
+
+== Programiści ==
+
+Osoba programująca komputery nazywa się programistą. Ich praca zazwyczaj obejmuje:
+
+analizę wymagań systemowych
+specyfikację aplikacji
+architekturę systemu informatycznego
+programowanie
+kompilację oprogramowania
+testowanie oprogramowania
+dokumentację programu
+integrację systemów
+konserwację oprogramowania.
+
+
+== Języki programowania ==
+
+Różne języki programowania pozwalają na wykorzystanie różnych stylów programowania zwanych również paradygmatami programowania oraz specyficznych cech danego języka. Wybór konkretnego języka może zależeć od indywidualnych upodobań, polityki firmy tworzącej oprogramowanie lub ze względu na zadanie, jakie końcowa aplikacja ma realizować (języki dziedzinowe). Najlepszym rozwiązaniem jest wybór języka programowania najbardziej dostosowanego do rozwiązywanego zadania i ewentualnej istniejącej infrastruktury. Najważniejsze kryteria wyboru języka programowania to: paradygmat i rodzaj języka, przenośność i wydajność kompilatorów, dojrzałość oraz dostępność narzędzi i dokumentacji. Ze względów takich jak brak kompilatorów dla danej platformy sprzętowej, niewystarczająca wydajność wynikowego kodu aplikacji, czy konieczność utrzymania i integracji z już istniejącą infrastrukturą, może nie być to możliwe lub zbyt kosztowne do zrealizowania. W przypadku większych projektów istotne jest też, jak szybko można znaleźć odpowiednio wykwalifikowane osoby znające konkretny język i jak szybko uda się z nich stworzyć sprawny zespół.
+
+
+== Historia programowania ==
+
+Mechaniczne urządzenia liczące są konstruowane już od czasów starożytnych. Mechanizm z Antykithiry pochodzący z czasów starożytnej Grecji (150–100 p.n.e.) był mechanicznym kalkulatorem opartym na zespole kół zębatych, służącym do obliczeń astronomicznych. Arabski wynalazca Al-Jazari zbudował w 1206 roku programowalny automat perkusyjny z pałeczkami oraz krzywkami umieszczonymi na drewnianym bębnie w określonych miejscach. W miarę obrotu bębna uderzały one o dźwignie, które odgrywały określony dźwięk na instrumencie perkusyjnym. W 1805 roku powstało krosno tkackie Josepha Marie Jacquarda. Maszyna korzystała z kart dziurkowanych, na których zapisany był wzór tkaniny do wytworzenia. Zmieniając zestaw kart, można było uzyskać tkaniny z innymi wzorami. Pomysł ten został później podchwycony przez Hermana Holleritha z IBM.
+W 1833 roku Charles Babbage zaczął budowę maszyny analitycznej będącej w istocie mechanicznym, programowalnym protokomputerem, który wyprzedzał swoją epokę. Z powodu trudności konstrukcyjnych, a także braku zainteresowania rządu Wielkiej Brytanii wynalazca nie dokończył swojego wynalazku, lecz projekt został opisany przez Adę Lovelace, która napisała także dla niego pierwszy program obliczający liczby Bernoulliego i w ten sposób została pierwszym programistą w historii.
+Wynalezienie architektury von Neumanna umożliwiło przechowywanie programów komputerowych w pamięci operacyjnej komputera razem z danymi. Pierwsze programy musiały być składane bezpośrednio z operacji oferowanych przez konkretną maszynę, często w notacji binarnej. Każdy model używał innego zestawu komend, co ograniczało przenośność. W późniejszych latach zaprojektowano pierwsze asemblery, gdzie programista mógł wpisywać instrukcje w formacie tekstowym z wykorzystaniem zapisu symbolicznego zamiast numeru rozkazu, np. ADD X, TOTAL. W 1954 roku stworzony został pierwszy język programowania wysokiego poziomu, FORTRAN, gdzie programiści mogli bezpośrednio formułować wyrażenia matematyczne w podobnym stylu, do jakiego jesteśmy przyzwyczajeni: y = x^2 + 5*x – 7. Tekst programu, lub inaczej jego źródło, było tłumaczone do postaci zrozumiałej dla maszyny za pomocą specjalnej aplikacji zwanej kompilatorem. W późniejszych latach powstały nowe języki programowania, często zorientowane do tworzenia konkretnych typów aplikacji.
+W początkowych latach istnienia komputerów (ok. 1940–1960), programy komputerowe były wprowadzane do pamięci komputera za pośrednictwem kart dziurkowanych lub papierowych taśm. Pod koniec lat sześćdziesiątych pojawiły się pierwsze urządzenia do elektronicznego przechowywania informacji oraz terminale komputerowe, dzięki którym kod źródłowy mógł być wprowadzany bezpośrednio do komputera za pomocą edytorów tekstu.
+Wraz z rozwojem Internetu oraz sieci komputerowych pojawiły się narzędzia ułatwiające zespołową pracę nad programami, takie jak systemy kontroli wersji. Kod źródłowy jest tutaj przechowywany na centralnym serwerze, natomiast programiści wysyłają do niego poprawki z własnych kopii lokalnych. Wszystkie zmiany są rejestrowane, a program zarządzający potrafi inteligentnie łączyć ze sobą fragmenty modyfikowane niezależnie przez dwóch programistów, dzięki czemu nie może zaistnieć sytuacja przypadkowego skasowania efektu pracy innego członka zespołu.
+Obecnie programowanie komputerów jest atrakcyjną karierą w niemal każdym kraju rozwiniętym, ze względu na stale rosnący popyt na nowe aplikacje komputerowe. Niektóre z najbogatszych osób świata są programistami z zawodu, na przykład Bill Gates (Microsoft), Larry Ellison (Oracle), Larry Page (Google) czy Hasso Plattner (SAP).
+
+
+== Nowoczesne programowanie ==
+Kolejnymi krokami w każdym projekcie programistycznym powinny być analiza wymagań, modelowanie, implementacja i eliminacja błędów (debugging). Istnieje wiele różnych sposobów na zrealizowanie każdego z tych etapów.
+Współcześni programiści korzystają z wielu specjalistycznych narzędzi wspomagających tworzenie i zarządzanie złożonymi aplikacjami. Proces tworzenia programu komputerowego zazwyczaj rozpoczyna się od stworzenia analizy wymagań oraz zaprojektowania architektury. Popularnymi technikami modelowania są tutaj OOAD oraz MDA. Unified Modelling Language (UML) jest powszechnie akceptowaną notacją do prezentowania obu z nich.
+Dopiero wtedy następuje tworzenie właściwego kodu źródłowego. Przy złożonych aplikacjach korzysta się z zaawansowanych środowisk IDE wyposażonych w szereg dodatkowych menedżerów pokazujących różne informacje o strukturze aplikacji oraz w rozbudowany system wykrywania i usuwania błędów. Popularnymi środowiskami IDE są Visual Studio firmy Microsoft oraz projekt Eclipse nadzorowany przez IBM.
+Obecnie istotnym zagadnieniem jest kontrolowanie wersji kodu źródłowego, który często jest modyfikowany w sposób rozproszony przez wielu programistów. Im większy projekt (np. taki jak system operacyjny: FreeBSD, NetBSD, GNU/Linux itp.) tym większe znaczenie ma integrowanie wielu zmian oraz zarządzanie nimi (np. śledzenie zmian niezależnie np. od przemieszczania się plików itp.). Do takich systemów zaliczyć można np. CVS, Subversion, svk, Git, Bazaar i inne. Wiele dużych, komercyjnych środowisk programistycznych zintegrowanych jest w system kontroli wersji.
+Usuwanie błędów z gotowej aplikacji jest ostatnim krokiem rozwoju oprogramowania. Trudność jego realizacji zależy od środowiska, jakości kodu źródłowego oraz wybranego języka programowania. Istnieją dwa główne sposoby debugowania: statyczna analiza kodu i dynamiczna. Pierwszy polega na analizie kodu źródłowego pod kątem występowania możliwych błędów. Drugi, na analizie programu w trakcie pracy, służą ku temu specjalne narzędzia, zwane debugerami oraz fragmenty kodu zawarte bezpośrednio w programie, których jedynym zadaniem jest pomoc w znalezieniu błędów.
+
+
+=== Nowoczesne języki ===
+Współcześnie używanymi językami programowania są: C, C++, Objective-C, C#, Visual Basic, Java, Delphi, Cobol, PHP, Perl, Python, Ruby, Kotlin czy Rust.
+Wiele języków wyewoluowało z C, jak na przykład C++, C# czy Java. Języki Java, Python i Ruby są popularne, gdyż pozwalają na bardzo szybkie tworzenie aplikacji oraz są uruchamiane w wirtualnej maszynie, co pozwala na uniknięcie wielu problemów znanych z języków niższego poziomu, takich jak przepełniania bufora czy nieprawidłowe wskaźniki. Jednakże większość programów biurowych, jak na przykład edytory tekstu czy grafiki, jest napisanych w wydajniejszych językach, takich jak C, C++ czy Delphi.
+Systemy operacyjne są niemal całkowicie napisane w wydajnych językach, ponieważ w tym przypadku szybkość jest priorytetowa. Naukowe programy są zwykle zaimplementowane w Fortranie, gdyż przy użyciu nowszych kompilatorów możliwa jest w nim bardzo wydajna optymalizacja obliczeń arytmetycznych. Cobol jest wciąż na silnej pozycji w zagranicznych korporacyjnych i rządowych centrach danych, głównie na serwerach Mainframe. PHP i Java górują w programach korzystających z baz danych. Python, będąc językiem ogólnego zastosowania, jest wykorzystywany zwykle do administrowania systemem i na stronach WWW.
+Istniejące języki programowania są stale rozwijane i modernizowane, powstają też zupełnie nowe, często innowacyjne języki i kompilatory.
+
+
+=== Debugowanie ===
+Debugowanie jest bardzo ważną częścią procesu tworzenia oprogramowania, ponieważ program z błędami jest zwykle bezużyteczny. Języki takie jak C czy pisanie bezpośrednio w asemblerze mogą stanowić wyzwanie nawet dla doświadczonych programistów. Bliski kontakt ze sprzętem oprócz dużej wydajności i kontroli nad nim, niesie ze sobą również podatność na wystąpienie poważnych błędów takich jak przepełnienie bufora, błędne wskaźniki czy niezainicjowana pamięć. Przepełnienie bufora może uszkodzić sąsiednie segmenty pamięci i spowodować błąd w zupełnie innej linii programu; jest również bardzo skuteczną metodą ataku – pozwala na wykonanie praktycznie dowolnego kodu poprzez nadpisanie wskaźnika powrotnego funkcji. Z tego powodu narzędzia takie jak Valgrind, Purify czy Boundschecker są niemal niezbędne przy tworzeniu nowoczesnych aplikacji w C czy C++.
+Języki takie jak Java, PHP i Python zapobiegają większości takich błędów, ale za cenę spadku wydajności programu wynikowego. Jest to akceptowalne w programach, którym większość czasu zabierają zapytania do bazy danych.
+
+
+== Zawody programistyczne ==
+Od kilku dekad organizowanych jest szereg konkursów programistycznych skierowanych przeważnie do młodych programistów (uczniów szkół średnich i studentów). W Polsce odbywa się kilka dużych konkursów tego typu, a wśród nich, kierowane do studentów Akademickie Mistrzostwa Polski w Programowaniu Zespołowym, czy skierowana do uczniów szkół średnich Olimpiada Informatyczna organizowana przez Ministerstwo Edukacji. Istnieją też portale skupiające zawodników startujących w tego typu konkursach (zob. online judge), które zawierają zbiory zadań i pozwalają na automatyczne sprawdzanie rozwiązań.
+Osobliwą formą zawodów programistycznych są kompoty (od ang. competition – turniej) organizowane przez społeczność demosceniczną na zlotach takich jak np. Assembly Demoparty i inne. Kategorie zawodów demo i intro w głównej mierze skupiają się na konkurencji polegającej na stworzeniu najwydajniejszego kodu lub wykazania niezwykłego programistycznego polotu. Często też mają miejsce kategorie, w których ogranicza się rozmiar kodu np. 4 KB, 8 KB, 64 KB 96 KB itp. W takim przypadku autor lub autorzy próbują zbudować niezwykle urozmaicony i rozbudowany program multimedialny mieszczący się w zadanych ramach.
+Często przy ograniczaniu rozmiaru wynikowego programu w takich turniejach stosuje się metody kryptograficzne, algorytmy, kompresję bądź metodę usuwania opcjonalnych nagłówków pliku.
+
+
+== Zobacz też ==
+
+algorytm
+język skryptowy
+konsolidacja
+programowanie hybrydowe
+
+
+== Przypisy ==
+
+
+== Linki zewnętrzne ==
+Materiały dydaktyczne MIMUW na studia informatyczne I stopnia:
+
+Wstęp do programowania
+Paradygmaty programowania
+Metody programowania
+Środowisko programisty
+Materiały dydaktyczne MIMUW na studia informatyczne II stopnia:
+
+Metody realizacji języków programowania"}}}}

@@ -1,0 +1,136 @@
+La ciencia es una disciplina sistemática que construye y organiza conocimiento en forma de hipótesis y predicciones comprobables sobre el universo.[1]​[2]​[3]​ La ciencia moderna se divide típicamente en dos o tres ramas principales:[4]​ las ciencias naturales (por ejemplo, física, química y biología), que estudian el mundo físico; y las ciencias sociales (por ejemplo, economía, psicología y sociología), que estudian a los individuos y las sociedades. Las ciencias formales (por ejemplo, lógica, matemáticas y ciencia computacional teórica), que estudian sistemas formales regidos por axiomas y reglas,[5]​[6]​ a veces también se describen como ciencias; sin embargo, a menudo se consideran un campo separado porque dependen del razonamiento deductivo en lugar del método científico o de la evidencia empírica como su principal metodología.[7]​[8]​ Las ciencias aplicadas son disciplinas que utilizan el conocimiento científico con fines prácticos, como la ingeniería y la medicina.[9]​[10]​[11]​
+La historia de la ciencia abarca la mayoría del registro histórico, siendo los primeros precursores identificables de la ciencia moderna datados en la Edad de Bronce en Egipto y Mesopotamia (aproximadamente 3000–1200 a. C.). Sus contribuciones a las matemáticas, la astronomía y la medicina entraron y moldearon la filosofía natural griega de la antigüedad clásica, mediante la cual se intentaron proporcionar explicaciones de los eventos en el mundo físico basadas en causas naturales.[12]​[13]​[14]​ La investigación científica decayó en estas regiones después de la caída del Imperio romano de Occidente durante la Alta Edad Media (400–1000 d. C.), pero en los renacimientos medievales (Renacimiento carolingio, Renacimiento otoniano y el Renacimiento del siglo XII) la erudición floreció nuevamente. Algunos manuscritos griegos perdidos en Europa Occidental fueron preservados y ampliados en el Medio Oriente durante la Edad de Oro del islam,[15]​ junto con los esfuerzos posteriores de los eruditos griegos bizantinos, quienes llevaron manuscritos griegos desde el moribundo Imperio Bizantino a Europa Occidental al comienzo del Renacimiento.
+La recuperación y asimilación de obras griegas e investigaciones islámicas en Europa Occidental desde los siglos X al XIII revivió la filosofía natural, que luego fue transformada por la Revolución Científica que comenzó en el siglo XVI cuando nuevas ideas y descubrimientos se apartaron de las concepciones y tradiciones griegas anteriores.[16]​[17]​ El método científico pronto desempeñó un papel más importante en la creación del conocimiento y no fue hasta el siglo XIX cuando muchas de las características institucionales y profesionales de la ciencia comenzaron a tomar forma,[18]​[19]​ junto con el cambio de "filosofía natural" a "ciencias naturales".[20]​
+El nuevo conocimiento en la ciencia avanza mediante la investigación de científicos motivados por la curiosidad sobre el mundo y el deseo de resolver problemas.[21]​[22]​ La investigación científica contemporánea es altamente colaborativa y suele realizarse por equipos en instituciones académicas y de investigación,[23]​ agencias gubernamentales[15]​ y empresas.[24]​ El impacto práctico de su trabajo ha llevado al surgimiento de políticas científicas que buscan influir en la empresa científica, priorizando el desarrollo ético y moral de productos comerciales, armamentos, atención médica, infraestructura pública y protección del medio ambiente.
+
+
+== Historia ==
+
+La historia de la ciencia abarca el desarrollo de la ciencia desde la Antigüedad hasta el presente. La ciencia es un conocimiento empírico, teórico y de procedimiento sobre el universo, producido por científicos que formulan explicaciones y predicciones comprobables basadas en sus observaciones.[25]​ Hay tres ramas principales de la ciencia: natural, social y formal.[26]​
+Las primeras raíces de la ciencia se remontan al Antiguo Egipto y Mesopotamia alrededor de 3000 a 1200 A. C.[27]​[28]​ Sus contribuciones a las matemáticas, la astronomía y la medicina entraron y dieron forma a la filosofía natural griega de la Antigüedad clásica, mediante la cual se hicieron intentos formales para proporcionar explicaciones de eventos en el mundo físico basadas en causas naturales.[27]​[28]​ Después de la caída del Imperio romano occidental, el conocimiento de las concepciones griegas del mundo se deterioró en Europa occidental de habla latina durante los primeros siglos (400 a 1000 EC) de la Edad Media,[29]​ pero continuó prosperando en el Imperio Romano Oriental (o Bizantino) de habla griega. Con la ayuda de traducciones de textos griegos, la cosmovisión helenística se conservó y se absorbió en el mundo musulmán de habla árabe durante la Edad de Oro islámica.[30]​ La recuperación y asimilación de obras griegas y las investigaciones islámicas en Europa occidental desde el siglo X al XIII revivieron el aprendizaje de la filosofía natural en Occidente.[29]​[31]​
+La filosofía natural se transformó durante la Revolución Científica en la Europa de los siglos XVI al XVII,[32]​[33]​ a medida que nuevas ideas y descubrimientos se apartaron de las concepciones y tradiciones griegas anteriores.[34]​[35]​[36]​[37]​ La Nueva Ciencia que surgió era más mecanicista en su cosmovisión, más integrada con las matemáticas y más confiable y abierta ya que su conocimiento se basaba en un método científico recién definido.[35]​[38]​[39]​ Pronto siguieron más «revoluciones» en los siglos siguientes. La revolución químicadel siglo XVIII por ejemplo, introdujo nuevos métodos cuantitativos y medidas para la química. En el siglo XIX se enfocaron nuevas perspectivas con respecto a la conservación de la energía, la edad de la Tierra y la evolución.[40]​[41]​[42]​[43]​[44]​[45]​ Y en el siglo XX nuevos descubrimientos en genética y física sentaron las bases para nuevas subdisciplinas como la biología molecular y la física de partículas.[46]​[47]​ Además, las preocupaciones industriales y militares, así como la creciente complejidad de los nuevos esfuerzos de investigación, pronto marcaron el comienzo de la era de la «gran ciencia», particularmente después de la Segunda Guerra Mundial.[46]​[47]​[48]​
+
+
+=== Culturas tempranas ===
+
+Las primeras raíces de la ciencia se remontan al Antiguo Egipto y a la Mesopotamia en torno a los años 3000 a 1200 a. C.[49]​ Aunque las palabras y los conceptos de «ciencia» y «naturaleza» no formaban parte del paisaje conceptual de la época, los antiguos egipcios y mesopotámicos hicieron aportaciones que más tarde encontrarían un lugar en la ciencia griega y medieval: las matemáticas, la astronomía y la medicina.[49]​[50]​ A partir de alrededor del año 3000 a. C., los antiguos egipcios desarrollaron un sistema de numeración de carácter decimal y orientaron sus conocimientos de geometría a la resolución de problemas prácticos, como los de los topógrafos y constructores.[49]​ Incluso desarrollaron un calendario oficial que contenía doce meses, de treinta días cada uno, y cinco días al final del año.[49]​ Los antiguos pueblos de Mesopotamia utilizaban los conocimientos sobre las propiedades de diversos productos químicos naturales para la fabricación de cerámica, loza, vidrio, jabón, metales, yeso de cal e impermeabilización;[51]​ también estudiaban la fisiología animal, la anatomía y el comportamiento con fines divinatorios[51]​ y realizaban amplios registros de los movimientos de los objetos astronómicos para su estudio de la astrología.[52]​ Los mesopotámicos tenían intenso interés por la medicina[51]​ y las primeras prescripciones médicas aparecen en sumeria durante la Tercera Dinastía de Ur (c. 2112 a. C. - c. 2004 a. C.).[53]​ No obstante, los mesopotámicos parecen haber tenido poco interés en recopilar información sobre el mundo natural por el mero hecho de recopilar información[51]​ y principalmente solo estudiaron temas científicos que tenían aplicaciones prácticas obvias o relevancia inmediata para su sistema religioso.[51]​
+
+
+=== Antigüedad clásica ===
+En la Antigüedad clásica, no existe un verdadero análogo antiguo de un científico moderno. En su lugar, individuos bien educados, generalmente de clase alta, y casi universalmente varones, realizaban diversas investigaciones sobre la naturaleza siempre que podían disponer de tiempo.[54]​ Antes de la invención o descubrimiento del concepto de «naturaleza» (griego antiguo physis) por parte de los filósofos presocráticos, las mismas palabras solían utilizarse para describir la forma natural en que crece una planta,[55]​ y la «manera» en que, por ejemplo, una tribu adora a un dios determinado. Por esta razón, se afirma que estos hombres fueron los primeros filósofos en sentido estricto, y también los primeros en distinguir claramente «naturaleza» y «convención»[56]​: 209  La filosofía natural, precursora de la ciencia natural, se distinguía así como el conocimiento de la naturaleza y de las cosas que son verdaderas para toda comunidad, y el nombre de la búsqueda especializada de tal conocimiento era filosofía, el reino de los primeros filósofos-físicos. Eran principalmente especuladores o teóricos, particularmente interesados en la astronomía. En cambio, tratar de utilizar el conocimiento de la naturaleza para imitarla (artificio o tecnología, griego technē) era visto por los científicos clásicos como un interés más apropiado para los artesanos de clase social inferior.[57]​
+
+Los primeros filósofos griegos de la Escuela Milesiana, fundada por Tales de Mileto y continuada posteriormente por sus sucesores Anaximandro y Anaxímenes, fueron los primeros en intentar explicar la fenómenos naturales sin apoyarse en lo sobrenatural.[59]​ El Pitagóricos desarrolló una filosofía de números complejos[60]​: 467–68  y contribuyó significativamente al desarrollo de la ciencia matemática.[60]​: 465  El teoría de los átomos fue desarrollado por el filósofo griego Leucipo y su alumno Demócrito.[61]​[62]​ El médico griego Hipócrates estableció la tradición de la ciencia médica sistemática[63]​[64]​ y es conocido como «El padre de la medicina».[65]​
+Un punto de inflexión en la historia de la ciencia filosófica primitiva fue el ejemplo de Sócrates de aplicar la filosofía al estudio de los asuntos humanos, incluyendo la naturaleza humana, la naturaleza de las comunidades políticas y el propio conocimiento humano. El método socrático, tal y como se documenta en los diálogos de Platón, es un método dialéctico de eliminación de hipótesis: se encuentran mejores hipótesis identificando y eliminando constantemente las que conducen a contradicciones. Se trata de una reacción al énfasis de los sofistas en la retórica. El método socrático busca verdades generales, comúnmente sostenidas, que dan forma a las creencias y las escudriña para determinar su consistencia con otras creencias.[66]​ Sócrates criticó el tipo de estudio más antiguo de la física por ser demasiado puramente especulativo y carente de autocrítica. Sócrates fue más tarde, en palabras de su Apología, acusado de corromper a la juventud de Atenas porque «no creía en los dioses en los que cree el Estado, sino en otros nuevos seres espirituales». Sócrates refutó estas afirmaciones,[67]​ pero fue condenado a muerte.[68]​: 30e 
+Aristóteles creó posteriormente un programa sistemático de filosofía teleológica: El movimiento y el cambio se describen como la actualización de los potenciales que ya están en las cosas, según el tipo de cosas que sean. En su física, el Sol gira alrededor de la Tierra, y muchas cosas tienen como parte de su naturaleza que son para los humanos. Cada cosa tiene una causa formal, una causa final, y un papel en un orden cósmico con un impulsor inmóvil. Los socráticos también insistieron en que la filosofía debería utilizarse para considerar la cuestión práctica de la mejor manera de vivir para un ser humano (un estudio que Aristóteles dividió en ética y filosofía política). Aristóteles sostenía que el hombre conoce una cosa científicamente «cuando posee una convicción a la que ha llegado de una manera determinada, y cuando los primeros principios sobre los que descansa esa convicción le son conocidos con certeza».[69]​
+El astrónomo griego Aristarco de Samos (310-230 a. C.) fue el primero en proponer un modelo heliocéntrico del universo, con el Sol en el centro y todos los planetas orbitando alrededor de él.[70]​ El modelo de Aristarco fue ampliamente rechazado porque se creía que violaba las leyes de la física.[70]​ El inventor y matemático Archimedes de Siracusa hizo importantes contribuciones a los inicios del cálculo[71]​ y a veces se le ha atribuido como su inventor,[71]​ aunque su protocálculo carecía de varias características definitorias.[71]​Plinio el Viejo fue un escritor y polímata romano, que escribió la enciclopedia seminal Historia Natural,[72]​[73]​[74]​ que se ocupan de la historia, la geografía, la medicina, la astronomía, las ciencias de la tierra, la botánica y la zoología.[72]​ Otros científicos o protocientíficos de la Antigüedad fueron Teofrasto, Euclides, Herófilo, Hiparco, Ptolomeo y Galeno.
+
+
+== Ramas ==
+
+
+=== Unidad ===
+
+
+=== Límites ===
+
+
+== Investigación científica ==
+
+
+=== Método ===
+
+
+=== Leyes ===
+
+
+=== Teorías ===
+
+
+=== Modelos ===
+
+
+=== Consenso ===
+
+
+=== Progreso ===
+
+
+== Filosofía de la ciencia ==
+
+
+== Comunidad científica ==
+
+
+=== Científicos ===
+
+
+=== Mujeres en ciencia ===
+
+
+=== Sociedad científica ===
+
+
+== Influencia en la sociedad ==
+
+
+=== Divulgación científica ===
+
+
+=== Conciencia pública de la ciencia ===
+
+
+=== Estudios de ciencia, tecnología y sociedad ===
+
+
+== Véase también ==
+
+ Portal:Ciencia. Contenido relacionado con Ciencia.
+Anticiencia.
+Ciencia ficción.
+Cientificismo.
+Evidencia empírica.
+Financiamiento de la ciencia.
+Materialismo.
+Metaciencia.
+Política científica.
+Politización de la ciencia.
+Positivismo.
+Protociencia.
+Pseudociencia.
+Tecnociencia.
+Tecnología.
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Bunge, Mario (1969). La ciencia: su método y su filosofía. Buenos Aires. 
+— (1980). Epistemología: curso de actualización. Barcelona. Ariel. ISBN 84-344-8004-2. 
+— (1981). Materialismo y ciencia. Barcelona. Ariel. ISBN 84-344-0828-7. 
+Cassirer, Ernst (1979). El problema del conocimiento en la filosofía y en la ciencia modernas. México: Fondo de Cultura Económica. 
+Feyerabend, Paul. «Cómo ser un buen empirista: defensa de la tolerancia en cuestiones epistemológicas». Revista Teorema 7 (Valencia: Universidad de Valencia). ISBN 84-600-0507-0. 
+— (1975). Contra el método: esquema de una teoría anarquista del conocimiento. Barcelona: Ariel. ISBN 84-344-0735-3. 
+— (1990). Diálogo sobre el método. Madrid: Cátedra. ISBN 84-376-0956-9. 
+— (1984). Adiós a la razón. Madrid: Tecnos. ISBN 84-309-1071-9. 
+Fried Schnitman, D.; Prigogine, I.; Morin, E.; et. al. (1994). Nuevos paradigmas, Cultura y Subjetividad. Buenos Aires: Paidós. ISBN 950-12-7023-8. 
+Hurtado, G. (Abril de 2003). «¿Saber sin verdad? Objeciones a un argumento de Villoro». Crítica. Revista Hispanoamericana de Filosofía 35 (103): 121-134. 
+Popper, Karl (2004). La lógica de la investigación científica. Madrid: Tecnos. ISBN 84-309-0711-4. 
+— (1984). Sociedad abierta, universo abierto. Madrid: Tecnos. ISBN 84-309-1105-7. 
+— (2002). Conjeturas y refutaciones: el desarrollo del conocimiento científico. Madrid: Tecnos. ISBN 84-309-0723-8. 
+Putnam, Hilary (1988). Razón, verdad e historia. Madrid: Tecnos. ISBN 84-309-1577-X. 
+— (1994). Las mil caras del realismo. Barcelona: Paidós. ISBN 84-7509-980-7. 
+— (1985).  W. K. Essler, H. Putnam y W. Stegmüller, ed. Epistemology, methodology, and philosophy of science: essays in honor of Carl G. Hempel on the occasion of his 80th birthday. 
+Quine, Willard Van Orman (1998). Del estímulo a la ciencia. Barcelona: Ariel. ISBN 84-344-8747-0. 
+Villoro, J. (1992). Creer, saber, conocer. México DF: Siglo XXI. ISBN 968-23-1151-9. 
+
+
+== Enlaces externos ==
+
+ Wikilibros alberga un libro o manual sobre Ciencias.
+
+ Wikisource contiene obras originales de o sobre Ciencia.
+
+ Wikcionario  tiene definiciones y otra información sobre ciencia.
+Scientific American Archivado el 19 de enero de 2014 en Wayback Machine.
+Investigación y Ciencia - Edición española de Scientific American"}}}}

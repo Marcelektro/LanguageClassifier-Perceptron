@@ -1,0 +1,119 @@
+Język – system budowania wypowiedzi, używany w procesie komunikacji.
+
+
+== Cechy języka ==
+Język posiada następujące cechy:
+
+istnienie nadawcy i odbiorcy – nadawca nadaje komunikat odbiorcy, który dysponuje tym samym kodem; język jako narzędzie komunikacji zakłada efektywne porozumienie się obydwu stron;
+język jest systemem znaków o charakterze konwencjonalnym;
+foniczność – dźwięki oraz alfabet (wtórna realizacja dźwięku);
+dwustopniowość i dwuklasowość – wyróżniamy dwa stopnie: znaki i diakryty oraz dwie klasy: słownik i gramatykę;
+abstrakcyjność (zdalność) – odnoszenie do pojęć ogólnych, możliwość mówienia o zjawiskach nieobecnych;
+polisemiczność – możliwość przesunięć w umowie, cecha wskazująca na kreatywność języka, gdyż język może zostać odnoszony do zjawisk nieposiadających własnej nazwy; twórcze użycie wyrażeń językowych;
+samozwrotność – mówienie za pomocą języka o samym języku;
+nadużywalność – przekaz różnych informacji (prawdziwych lub fałszywych).
+
+
+== Elementy języka i jego cele ==
+Na język składają się dwa elementy:
+
+otwarty zbiór znaków, zbudowanych z fonemów:
+morfemów
+wyrazów
+stałych zwrotów i wyrażeń
+reguły łączenia i tworzenia znaków:
+fonologia
+morfologia
+składnia
+Język służy do przedstawiania rzeczywistości dotyczącej przedmiotów, czynności czy abstrakcyjnych pojęć za pomocą znaków. Zbiór znaków w języku jest otwarty. Wynika to z faktu, że znakiem językowym jest każdy tekst, każda sformułowana wypowiedź, posiadająca znaczenie. Jednostka posługująca się językiem może więc za pomocą jego systemu tworzyć nieskończoną liczbę nowych znaków, także takich, z którymi nigdy się wcześniej nie zetknęła. Znaki te niekoniecznie wzbogacają jednak sam system językowy, gdyż użytkownicy nie uczą się na pamięć wszystkich zasłyszanych wypowiedzi – są jednak w stanie w oparciu o język stworzyć nowy tekst (znak) o tym samym bądź zbliżonym znaczeniu. Tak więc język to nie tylko system znaków, ale szerzej – system tworzenia znaków.
+Spośród języków używanych przez ludzi można wymienić języki naturalne (np. polski, francuski, islandzki itp.) i sztuczne (np. esperanto, interlingua).
+Język mówiony jest utrwalany jako język pisany za pomocą pisma, regulowanego konwencjami ortograficznymi.
+Oprócz tego można mówić o języku gestów (język migowy), ciała (np. balet) czy muzyki (notacja muzyczna).
+Matematyka, w szczególności informatyka, używają szeregu sztucznych języków, tzw. języków formalnych, m.in. języków programowania.
+Badaniami nad językami zajmują się lingwistyka i filologia, a także dziedziny interdyscyplinarne takie jak psycholingwistyka.
+Język dzieli się na podsystemy:
+
+podsystem fonologiczny
+podsystem morfologiczny
+podsystem leksykalny
+podsystem składniowy
+
+
+== Szyk morfemów i wyrazów ==
+
+We wszystkich językach szyk morfemów ma znaczącą rolę. Nie zawsze jednak ma ją szyk wyrazów. Na przykład w języku polskim pary morfem tematu + morfem "końcówka rzeczownika" mogą poruszać się dość dowolnie w zdaniu, nie można tego jednak powiedzieć o którymś z tych morfemów z osobna.
+W większości języków istnieją zdania, które można podzielić na podmiot, orzeczenie i dopełnienie, choć często typowe zdanie nie zawiera ich wszystkich, lub zawiera w formie złączonej, np. informacje o podmiocie mogą być zawarte w końcówce czasownika. Zwykle pewna kolejność tych 3 elementów w zdaniu jest dominująca. Jest 6 możliwości, przy czym w niewielu językach dopełnienie występuje przed podmiotem. Niezbyt często też orzeczenie występuje na początku zdania:
+
+Podmiot Orzeczenie Dopełnienie (SVO) – jeden z dwóch najpopularniejszych szyków; m.in. polski, angielski
+Podmiot Dopełnienie Orzeczenie (SOV) – drugi pod względem popularności szyk; m.in. łacina, japoński
+Orzeczenie Podmiot Dopełnienie (VSO) – m.in. walijski
+Orzeczenie Dopełnienie Podmiot (VOS) – m.in. malgaski
+Dopełnienie Orzeczenie Podmiot (OVS) – hixkaryana
+Dopełnienie Podmiot Orzeczenie (OSV) – apurinatilde
+
+
+== Języki i dialekty ==
+Różne odmiany jednego języka mówionego nazywane są dialektami. Odmiany językowe (języki, dialekty, zespoły dialektalne itp.) charakterystyczne dla określonych grup etnicznych to tzw. etnolekty. Kryteria zaklasyfikowania dwóch etnolektów jako odrębnych języków lub dialektów tego samego języka nie są jasno sprecyzowane.
+Ze względów wyłącznie politycznych, historycznych lub kulturowych uznaje się często jakiś etnolekt za osobny język (zob. Abstand- i Ausbausprachen). Granice państw narodowych, dążenia standaryzacyjne I tradycje piśmiennicze wpływają na postrzeganie odrębności języków.
+Np. od momentu odzyskania przez Mołdawię niepodległości (koniec XX w.) język klasyfikowany wcześniej jako lokalna odmiana języka rumuńskiego zyskuje niekiedy miano języka mołdawskiego. Podobnie, po rozpadzie Jugosławii dotychczasowy język serbsko-chorwacki rozpadł się na odrębne języki narodowe: serbski, chorwacki i bośniacki.
+Często jest też na odwrót – etnolekty dość odległe od siebie uznaje się za odmiany etnolektu dominującego na danym obszarze (który cieszy się większą elaboracją i obsługuje szeroki zakres domen komunikacyjnych). Mówi się wówczas o językach pozornie dialektyzowanych. Według niektórych opinii taka sytuacja dotyczy języka kaszubskiego, którego częste zaliczanie do dialektów języka polskiego może być uznawane za umotywowane ideologicznie. Innym przykładem jest tu traktowanie większości chińsko-tybetańskich etnolektów używanych w Chinach jako dialektów języka chińskiego lub uznawanie etnolektów Arabów za dialekty jednego języka arabskiego. Użytkownicy tych etnolektów często nie potrafią się między sobą porozumieć, tworzą jednak pewne wspólnoty kulturowe lub polityczne, które łączy wspólny język standardowy.
+Ze względu na powszechność praktyki takiego nieopartego na lingwistycznych przesłankach rozróżniania dialektu i języka w dyskusjach lingwistycznych pojawia się często aforyzm „język to dialekt z armią i flotą wojenną”.
+Różne odmiany językowe określa się jako (nie są to definicje ścisłe, w rzeczywistości często tych terminów używa się zamiennie):
+
+dialekt, gwarę ludową, narzecze – mowa pewnego stosunkowo niewielkiego obszaru
+żargon – język pewnych grup zawodowych
+slang – mowa środowiskowa innych grup
+Język oficjalnie uznawany i używany w danym kraju to jego język urzędowy.
+Język, który w danej przestrzeni geograficznej lub społecznej (jak Internet) jest używany najpowszechniej to język dominujący. Zjawisko to wiąże się z pojęciem dominacji językowej.
+
+
+== Przyszłość ==
+Nie wiadomo jak dalej potoczą się losy języków świata. Z jednej strony coraz większa komunikacja między osobami mieszkającymi w odległych od siebie miejscach wymusza korzystanie ze wspólnych języków – co może prowadzić do zaniku mniejszych języków – z drugiej zaś na świecie jest coraz więcej ludzi, więc językom coraz trudniej jest zachować spójność. Nie wiadomo też, które języki będą w przyszłości dominujące. Z jednej strony ekspansję prowadzą języki międzynarodowe, takie jak angielski i kilka języków o znaczeniu regionalnym, a z drugiej największy przyrost naturalny, a zatem przyrost liczby użytkowników języka notuje się w krajach Trzeciego Świata, których języki na razie nie są zbyt popularne. Średnio jeden język wymiera co 14 dni.
+
+
+== Języki świata ==
+
+Dotychczas poznano i opisano blisko 4,5 tysiąca języków z 7 tysięcy. Języki te klasyfikuje się w rodziny, podrodziny, grupy i zespoły językowe, a także w większe, ale luźne zespoły języków tzw. ligi językowe. Ponadto wyróżnia się także języki izolowane, nie wykazujące żadnych powiązań z istniejącymi językami, np. baskijski.
+Listę języków i dialektów świata zawiera strona internetowa Ethnologue, a także strona Marka Rosenfeldera [1] (razem z liczebnikami od 1 do 10).
+
+
+== Zabawy językowe ==
+Pig Latin
+Gibberish
+Ubbi dubbi
+verlan
+gra półsłówek
+
+
+== Zobacz też ==
+
+akt mowy
+język (anatomia)
+dialekt, regiolekt, socjolekt
+język ogólny, język regionalny, język wernakularny
+klasyfikacja języków – języki świata
+najczęściej używane języki świata
+język urzędowy, język pomocniczy, język międzynarodowy
+lingua franca, język wehikularny
+języki pidżynowe, języki kreolskie
+języki sztuczne
+język ojczysty
+język potoczny, język literacki, język standardowy, język prawniczy, język prawny
+język liturgiczny
+język martwy, język wymarły, język zagrożony wymarciem
+gramatyka, ortografia, fonologia, semantyka, filozofia języka
+język sformalizowany, zapożyczenia językowe, uniwersalia językowe, licznik
+poliglota
+społeczność językowa
+langue a parole
+
+
+== Przypisy ==
+
+
+== Bibliografia ==
+Renata Grzegorczykowa: Wstęp do językoznawstwa. Warszawa: Wydawnictwo Naukowe PWN, 2007, seria: Krótkie Wykłady z Językoznawstwa. ISBN 978-830115233-8. OCLC 177343876. Brak numerów stron w książce
+
+
+== Linki zewnętrzne ==
+Bożydar Kaczmarek. vvv.wsei.lublin.pl. [zarchiwizowane z tego adresu (2017-02-08)]., Język a umysł (esej), „Forum Akademickie” 3/1998"}}}}

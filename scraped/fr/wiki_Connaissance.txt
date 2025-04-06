@@ -1,0 +1,142 @@
+La connaissance est une notion aux sens multiples, à la fois utilisée dans le langage courant et objet d'étude poussée de la part des sciences cognitives et des philosophes contemporains.
+Les connaissances, leur nature et leur variété, la façon dont elles sont acquises, leur processus d'acquisition, leur valeur et leur rôle dans les sociétés humaines, sont étudiés par une diversité de disciplines, notamment la philosophie, la psychologie, les sciences cognitives, l'anthropologie et la sociologie.
+
+
+== Définition ==
+Le philosophe Christian Godin propose une définition de la connaissance articulée ainsi : 
+
+faculté mentale produisant une assimilation par l'esprit d'un contenu objectif préalablement traduit en signes et en idées.
+résultat de cette assimilation. La connaissance est une possession symbolique des choses. Elle comprend une infinité de degrés. La connaissance rationnelle, méthodique universelle a parfois été opposée au savoir empirique, chaotique, objectif
+La connaissance se distingue des termes qui lui sont proches comme : savoir, information, donnée, croyance, science, expérience, etc
+La connaissance en philosophie a des définitions particulières qui lui sont propres.
+
+
+=== Variété de connaissances ===
+La science en général est un ensemble de méthodes systématiques pour acquérir des connaissances : les connaissances scientifiques.
+Il existe néanmoins de nombreuses formes de connaissances qui, sans être scientifiques, n'en sont pas moins parfaitement adaptées à leur objet. Notamment : 
+
+le savoir-faire (l'artisanat), le savoir-être (savoir vivre, savoir nager, etc.),
+le savoir technique (savoir à quoi sert un marteau, savoir que l'eau éteint le feu),
+la connaissance des langues,
+la connaissance des traditions, légendes, coutumes ou idées d'une culture particulière,
+la connaissance qu'ont les individus de leur propre histoire (connaître son propre nom, ses parents, son passé),
+ou encore les connaissances communes d'un groupe d'individus (chasser le phoque) ou d'une société donnée (la transhumance, l'écobuage...) ou de l'humanité (Odyssée culturelle de l'humanité...).
+
+
+==== Connaissances tacites et explicites ====
+Les connaissances tacites sont souvent relatives au vécu personnel ; elles regroupent les compétences innées ou acquises, le savoir-faire et l'expérience (elles sont dites aussi «connaissances implicites»), sont généralement difficiles à verbaliser ou à « formaliser », par opposition aux connaissances explicites
+Les connaissances explicites, par opposition aux connaissances tacites, sont les connaissances clairement articulées sur un document écrit ou dans un système informatique ; ces connaissances sont transférables physiquement, car elles apparaissent sous une forme tangible tel qu'un document dossier papier ou un dossier électronique.
+
+
+== Connaissance par discipline ==
+
+
+=== En science ===
+
+La zététique est une mise à l'épreuve d'une connaissance, pour en éprouver sa scientificité.
+
+
+==== En anthropologie ====
+
+Pour l'anthropologue, la première connaissance est celle que les hommes ont d'eux-mêmes et de leur environnement, et qui, dans les sociétés primitives, assure leur survie quotidienne. C'est aussi cette connaissance qui structure le groupe humain. Elle se constitue comme un ensemble de pratiques, de comportements et de règles admises par la communauté. La pratique de la chasse collective suppose à la fois la connaissance de ses congénères, celle du gibier, celle du terrain et un savoir-faire partagé. Gérard Mendel, créateur de la sociopsychanalyse, en fait le point de départ des sociétés humaines dans son ouvrage La chasse structurale.
+Dans le contexte géographique propre à chacun se forment ainsi des cultures spécifiques. C'est ce qu'a étudié l'anthropologie structurale et en particulier Claude Levi-Strauss. Longtemps divisée entre culturalistes et naturalistes, la communauté scientifique tend à avoir aujourd'hui une approche plus complexe du rapport des cultures humaines avec leur environnement naturel (voir Philippe Descola, Par delà nature et culture).
+La société traditionnelle est peu portée vers l'innovation : les règles établies sont difficilement transgressables d'autant qu'elles s'appuient sur une représentation du monde et un univers mental où le sacré est omniprésent. La connaissance a alors un caractère religieux. Et inversement, la religion peut apparaître, à l'origine, comme l'unique moyen de connaître le monde. Dans les sociétés « modernes », la connaissance devient également un enjeu de pouvoir, et son « évaluation » autorise de départager une réelle « expertise » d'un niveau insuffisant, ou même de l'imposture. Il n'est pas certain que les procédures mises en place dans les disciplines scientifiques permettent de distinguer à coup sûr les uns et les autres. Il n'est pas non plus définitivement avéré que les institutions « cognitives » laissent toujours se déployer librement l'étude innovatrice : on peut même se demander, avec Thomas Kuhn ou Maurice Allais, si l'attitude la plus répandue dans les grandes organisations n'est pas de préférer les démarches qui ne soulèvent aucune remise en cause des dogmes en vigueur.[réf. souhaitée]
+
+
+==== Psychologie ====
+Divers processus cognitifs peuvent être distingués :
+
+gestion des connaissances personnelles ;
+apprentissage.
+
+
+=== En philosophie ===
+
+En philosophie, on étudie avant tout la connaissance au sens de l'état de celui qui connaît ou sait quelque chose. On appelle aussi connaissances les choses connues elles-mêmes, mais cette seconde notion n'est pas celle qui intéresse les philosophes. De même, on appelle aussi connaissances, par extension, les choses qui sont tenues pour des connaissances par un individu ou une société donnée; mais là aussi, les philosophes ne s'intéressent pas à cette notion, sauf dans les débats concernant certaines formes de relativisme.
+Les philosophes distinguent traditionnellement trois types de connaissances :
+
+la connaissance propositionnelle est le fait de savoir qu'une certaine proposition est vraie, par exemple, savoir que la Terre est ronde ;
+la connaissance objectuelle, aussi appelée acquaintance, est le fait de connaître une chose particulière, par exemple, connaître Paris ;
+le savoir-faire est le fait d'être capable de réussir une action, par exemple, savoir faire des crêpes.
+La définition de la connaissance propositionnelle est celle qui a le plus attiré l'attention des philosophes. Ils s'accordent généralement à dire qu'une connaissance est une croyance qui est vraie, mais aussi qu'elle n'est pas seulement une croyance vraie. Il faut en outre que la croyance et la vérité (ou le fait) soient en quelque sorte connectés d'une façon appropriée, mais les philosophes sont en désaccord sur la nature de cette connexion. Pour certains, il faut que la croyance soit certaine ou infaillible, pour d'autres, qu'elle soit justifiée ou pourvue d'une justification non défaite, pour d'autres, qu'elle résulte d'un processus fiable, ou pour d'autres encore qu'elle ne soit pas vraie par accident. Ce sont sur ces conditions supplémentaires pour la connaissance que les débats portent.
+
+
+=== En économie ===
+ 
+Le noyau de l'économie de la connaissance est lié à l'appropriation des connaissances et à la production continuelle d'innovation. Tous les secteurs de la vie sociale qui concourent à la production de connaissances seraient les nouveaux centres du capitalisme cognitif.
+
+Certains économistes et sociologues et experts en gestion de connaissance appellent « sociétés de la connaissance » les sociétés à forte diffusion et flux d'informations et de savoir.
+On parle de patrimoine immatériel de l'humanité pour désigner l'ensemble des traditions, langues et cultures, savoir-faire artisanaux et expressions artistiques vivantes, en particulier lorsqu'elles appartiennent au domaine de la transmission orale.
+L'UNESCO, après n'avoir longtemps tenu compte que du patrimoine matériel, s'y est intéressé tardivement, à la fin des années 1990, et a adopté une convention, le 17 octobre 2003, qui reconnaît pleinement la valeur de ces savoirs.
+Depuis 1950, le gouvernement du Japon attribue le titre de » Trésor national vivant » à des individus ou groupes reconnus comme porteurs d’un savoir-faire culturel immatériel important. Ce titre est attribué à des maîtres de métiers tels que la peinture sur bois, la fabrication de papier ou de sabres, la vannerie et la poterie, ainsi qu’à des acteurs et musiciens de spectacles traditionnels.
+Selon Paul Romer (« prix Nobel » d'économie 2018) l'information et sa connaissance, les savoirs et savoir-faire sont un substitut, dans une certaine mesure aux ressources naturelles pas, peu, difficilement, couteusement ou lentement ou non- renouvelables , ; ils sont la source de la croissance économique pour le futur car non seulement abondants mais a priori infinis.
+
+
+=== En gestion ===
+
+En gestion des connaissances, on fait aussi la distinction entre :
+
+une donnée, en général mesurable (exemple : « Il fait 15° dans cette pièce »),
+une information correspondant à une donnée contextualisée (exemple : « Il fait froid dans cette pièce ») et
+une connaissance correspondant à l'appropriation et l'interprétation des informations par les hommes (exemple : « Pour avoir chaud, il suffit de monter le chauffage »).
+Notons ici que sont éliminées d'autres interprétations possibles de la situation, comme : « pour avoir chaud, vous devez bouger davantage », ou : « la température de la pièce monta d'un cran » (en référence à une querelle). Ainsi, ce qu'on nomme « connaissance », « information » ou « interprétation » dépend entièrement d'une décision de limiter le « contexte sémantique », cette décision pouvant dépendre à son tour des acteurs qui ont le pouvoir d'organiser la conversation sur les connaissances « pertinentes ». La difficulté principale rencontrée pour informatiser les connaissances tient à la quasi-impossibilité de maîtriser les interférences entre contextes et leur caractère arborescent. Le choix de ne retenir que le sens des termes utilisé par la hiérarchie de l'organisation contient une part d'arbitraire stratégique. Négliger cet aspect revient à transformer la « connaissance » en une croyance indiscutable.
+Dans les entreprises, la connaissance (au sens limité de celle qui est pertinente pour l'organisation) correspond à un capital de compétences que détiennent les hommes et les femmes dans différents domaines professionnels (exemples : marketing, R&D, ingénierie, production, logistique, approvisionnements, commercial, juridique...) constituant ce que l'entreprise nomme son « cœur de métier » (exemple : « Constructeur d'automobiles » pour Renault). Ces compétences doivent être gérées et capitalisées pour améliorer l'efficacité globale de l'entreprise. Des modèles méthodologiques de KM - tels que KnoVA, MKSM ou encore MASK - peuvent distinguer jusqu'à six types de connaissances pour décrire une compétence métier, représentative d'un savoir-faire professionnel particulier à une entreprise :
+
+les connaissances contextuelles, décrivant la culture métier du savoir-faire à l'aide des contextes reconnus ;
+les connaissances opératoires, décrivant le processus métier du savoir-faire à l'aide des activités prises en compte ;
+les connaissances comportementales, décrivant l'expertise métier du savoir-faire à l'aide des règles imposées ;
+les connaissances terminologiques, décrivant le vocabulaire métier du savoir-faire à l'aide de termes décidés ;
+les connaissances singulières, décrivant l'expérience métier du savoir-faire à l'aide de cas sélectionnés ;
+les connaissances évolutives, décrivant l'évolution métier du savoir-faire à l'aide de retours d'expérience choisis.
+Par ailleurs, en gestion des connaissances comme en cognitique industrielle, on fait aussi la distinction entre l'information, la donnée brute, la connaissance, qui est la sélection, l'appropriation et l'interprétation des informations par les hommes (Jean-Yves Prax), ainsi que « les savoirs », qui mettent en perspective les connaissances ponctuelles sur le long terme.
+Dans les entreprises, la connaissance correspond au capital d'expertise que détiennent les hommes dans les différents domaines (marketing, R&D, achats, commercial, juridique...) qui constituent le cœur de métier de l'entreprise. Cette connaissance doit être gérée pour améliorer l'efficacité globale des entreprises, la sécurité et la fiabilité des opérateurs et des traitements de connaissances, ainsi que l'accessibilité des connaissances par les usagers, notamment avec l'aide des technologies (dites technologie de la connaissance ou technologies cognitiques).
+
+
+=== En sociologie ===
+La sociologie de la connaissance est le sous-domaine de la sociologie qui étudie les relations entre la pensée et la société,,.Comme l'anthropologie de la connaissance, elle comprend « la connaissance " au sens large qui englobe les idées philosophiques et politiques, les doctrines religieuses et idéologiques, ainsi que le folklore, le droit et la technologie. La sociologie de la connaissance étudie dans quelles circonstances sociohistoriques la connaissance surgit, quelles conséquences elle a et de quelles conditions existentielles elle dépend. Les conditions examinées comprennent des facteurs physiques, démographiques, économiques et socioculturels. Un exemple de théorie dans ce domaine est dû à Karl Marx, qui affirme que l'idéologie dominante dans une société est le produit et change avec les conditions socio-économiques sous-jacentes,,. Un autre exemple se trouve dans les formes d'érudition décoloniale qui prétendent que les puissances coloniales sont responsables de l’hégémonie des systèmes de connaissances occidentaux. Ils recherchent une décolonisation du savoir pour miner cette hégémonie,.
+
+
+== Notes et références ==
+
+
+=== Notes ===
+
+
+=== Références ===
+
+
+== Annexes ==
+
+
+=== Bibliographie ===
+Laurent Giovachini, Les nouveaux chemins de la croissance - Comment l’industrie de la connaissance va façonner le Monde, Dunod, 2021, 135 p.  (ISBN 978-2-10-082881-4)
+Francis Farrugia, Connaissance et Libération. La socio-anthropologie de Marx, Freud et Marcuse, L'Harmattan, Paris, 2017
+Moritz Schlick, Théorie générale de la connaissance, trad. Christian Bonnet, Éditions Gallimard, coll. « Bibliothèque de philosophie », Paris, 2009, 551 p.  (ISBN 978-2-07-077185-1)
+(en) Laurence BonJour, The Structure of Empirical Knowledge, 1985
+(en) Roderick Chisholm, Theory of knowledge, 1989
+
+
+=== Articles connexes ===
+
+
+==== Sur les aspects philosophiques ====
+Théorie de la connaissance
+Savoir
+Concept | Cognition | Perception | Biais cognitif
+Liste des concepts de la philosophie
+
+
+==== Sur les disciplines scientifiques et techniques ====
+Ontologie | Épistémologie
+Sciences cognitives | Cognitique | Psychologie cognitive
+Logique
+Connaissance médicale | Connaissance technique
+Connaissance d'office en droit
+
+
+=== Liens externes ===
+
+Ressource relative à la recherche : Internet Encyclopedia of Philosophy 
+Ressource relative à la santé : Medical Subject Headings  
+
+ Portail de la culture   Portail de la philosophie   Portail de l’éducation"}}}}

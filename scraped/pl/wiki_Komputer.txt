@@ -1,0 +1,144 @@
+Komputer (od ang. computer); dawniej: mózg elektronowy, elektroniczna maszyna cyfrowa, maszyna matematyczna – maszyna przeznaczona do przetwarzania informacji, które da się zapisać w formie ciągu cyfr albo sygnału ciągłego. Maszyna roku tygodnika „Time” w 1982 roku.
+Mimo że mechaniczne maszyny liczące istniały od wielu stuleci, komputery w sensie współczesnym pojawiły się dopiero w połowie XX wieku, gdy zbudowano pierwsze komputery elektroniczne. Miały one rozmiary sporych pomieszczeń i zużywały kilkaset razy więcej energii niż współczesne komputery osobiste (PC), a jednocześnie miały miliardy razy mniejszą moc obliczeniową. Współcześnie są prowadzone także badania nad komputerami biologicznymi i optycznymi.
+Małe komputery mogą zmieścić się nawet w zegarku i są zasilane baterią. Komputery osobiste stały się symbolem ery informatycznej. Najliczniejszymi maszynami liczącymi są systemy wbudowane sterujące najróżniejszymi urządzeniami – od odtwarzaczy MP3 i zabawek po roboty przemysłowe.
+
+
+== Komputery i inne maszyny liczące ==
+Komputer od typowego kalkulatora odróżnia zdolność wykonywania wielokrotnie, automatycznie powtarzanych obliczeń, według algorytmicznego wzorca zwanego programem, gdy tymczasem kalkulator może zwykle wykonywać tylko pojedyncze działania. Granica jest tu umowna, ponieważ taką definicję komputera spełniają też kalkulatory programowalne (naukowe, inżynierskie), jednak kalkulatory służą tylko do obliczeń numerycznych, podczas gdy nazwa komputer najczęściej dotyczy urządzeń wielofunkcyjnych.
+
+Jakkolwiek istnieją mechaniczne urządzenia liczące, które potrafią realizować całkiem złożone programy, zazwyczaj nie zalicza się ich do komputerów. Warto jednak pamiętać, że prawzorem komputera jest abstrakcyjny model zwany maszyną Turinga, a pierwsze urządzenia ułatwiające obliczenia były znane w starożytności, na przykład abakus z 440 p.n.e.
+W początkowym okresie rozwoju komputerów budowano komputery zerowej generacji na przekaźnikach i elementach mechanicznych.
+Właściwie wszystkie współczesne komputery to maszyny elektroniczne. Próby budowania komputerów optycznych (wykorzystujących przełączniki optyczne), optoelektronicznych (połączenie elementów optycznych i elektronicznych), biologicznych (wykorzystujące wypreparowane komórki nerwowe) czy molekularnych (wykorzystujące jako bramki logiczne pojedyncze cząsteczki) są jeszcze w powijakach i do ich praktycznego zastosowania jest wciąż długa droga. Innym rodzajem komputera jest komputer kwantowy, którego układ przetwarzający dane wykorzystuje efekty fizyczne wynikające z mechaniki kwantowej.
+
+
+== Komputery analogowe ==
+
+W definicji komputera mieszczą się też urządzenia do przeliczania wartości reprezentowanych przez wielkość ciągłą (napięcie lub prąd elektryczny). Programowanie ich polega na określeniu toru przetwarzania sygnałów przełącznikami i ewentualnie określeniu stałych za pomocą potencjometrów. Komputery takie stosowano w połowie XX wieku i istniały nawet wyspecjalizowane w tym celu układy scalone. Obecnie nie opłaca się implementować algorytmów obliczeniowych w technice analogowej ze względu na niską cenę mikroprocesorów. Można jeszcze spotkać (np. w Rosji) analogowe komputery balistyczne służące do obliczania toru pocisków artyleryjskich, jednak i tam zastępuje się je komputerami cyfrowymi.
+
+
+== Programowalność ==
+To, co odróżnia współczesne komputery od wszystkich innych maszyn, to możliwość ich programowania, czyli wprowadzenia do pamięci komputera listy instrukcji, które mogą być wykonane w innym czasie.
+W większości przypadków instrukcje, które komputer wykonuje, są bardzo proste – dodawanie dwóch liczb, przeniesienie danych z jednego miejsca w inne, wyświetlenie komunikatu itd. Instrukcje te odczytywane są z pamięci komputera i zazwyczaj wykonywane są w tej samej kolejności, co w pamięci. Istnieją jednak instrukcje umożliwiające „skok” w pewne określone miejsce programu i wykonanie go z tego miejsca. Ponadto instrukcje skoku mogą być wykonane warunkowo, co umożliwia wykonanie różnych zestawów instrukcji w zależności od uzyskanych wcześniej wyników obliczeń. Ponadto istnieją instrukcje umożliwiające tworzenie podprogramów.
+Programowanie można w pewnym stopniu przyrównać do czytania książki. W większości wypadków słowa odczytywane są po kolei, zdarzają się jednak momenty, gdy czytelnik wraca do wcześniejszego rozdziału lub omija nieciekawy fragment. Komputery mają możliwość wykonania pewnych instrukcji w pętli, dopóki nie zostanie spełniony jakiś warunek.
+Można tu użyć przykładu człowieka próbującego zsumować kolejne liczby na kalkulatorze. Dodaje 1 + 2, do wyniku dodaje 3 i tak dalej. Przy próbie zsumowania 10 liczb nie stanowi to problemu, jednak już przy tysiącu po pierwsze zajmuje to bardzo dużo czasu, po drugie przy tak dużej ilości operacji istnieje duże prawdopodobieństwo błędu. Komputer z kolei wykona tę operację w ułamku sekundy, przy użyciu prostego programu:
+
+Po otrzymaniu rozkazu wykonania programu komputer wykona serię operacji dodawania. Prawdopodobieństwo wystąpienia pomyłki jest znikome. Komputery jednak nie potrafią myśleć samodzielnie i dany problem mogą rozwiązać wyłącznie według algorytmu przygotowanego przez człowieka. Inteligentna istota, napotkawszy podobne zadanie, mogłaby zorientować się, że do jego wykonania wystarczy użyć prostego równania:
+
+  
+    
+      
+        1
+        +
+        2
+        +
+        3
+        +
+        …
+        +
+        (
+        n
+        −
+        1
+        )
+        +
+        n
+        =
+        
+          
+            
+              n
+              (
+              n
+              +
+              1
+              )
+            
+            2
+          
+        
+        ;
+        n
+        =
+        1000
+      
+    
+    {\\displaystyle 1+2+3+\\ldots +(n-1)+n={\\frac {n(n+1)}{2}};n=1000}
+  
+
+Innymi słowy komputer wykona postawione przed nim zadanie, nie zastanawiając się nad efektywnością wykonanej przez niego „pracy”.
+
+
+== Podstawowe elementy komputera ==
+Większość współczesnych komputerów opartych jest na tak zwanej architekturze von Neumanna (od nazwiska Johna von Neumanna) i składa się z trzech typów podstawowych elementów:
+
+procesora – podzielonego na część arytmetyczno-logiczną, czyli układu, który faktycznie wykonuje wszystkie konieczne obliczenia oraz część sterującą (często obok CPU obecny jest także GPU czy procesor dźwięku)
+pamięci RAM – (od ang. Random Access Memory), czyli układy scalone, które przechowują program i dane (umożliwia to między innymi samomodyfikację programu) oraz bieżące wyniki obliczeń procesora i stale, na bieżąco wymienia dane z procesorem
+urządzeń wejścia/wyjścia – które służą do komunikacji komputera z otoczeniem.
+
+
+== Typy komputerów ==
+
+Współcześnie komputery dzieli się na:
+
+komputery osobiste („PC”, z ang. personal computer)
+smartfony (ang. smartphone) – mają podobne podzespoły i oprogramowanie co komputery osobiste.
+konsola – komputer wyspecjalizowany w programach rozrywkowych. Zazwyczaj korzysta z telewizora jako głównego wyświetlacza. Posiada ograniczone oprogramowanie przygotowane do wydajnego uruchamiania programów i gier. Na niektórych modelach można zainstalować inny system operacyjny i wykorzystywać do specyficznych zastosowań, na przykład procesory graficzne konsoli PS3 nadają się na przykład do łamania różnego rodzaju kodów.
+komputery domowe – poprzedniki komputerów osobistych, korzystające z telewizora jako monitora.
+komputery mainframe – często o większych rozmiarach, których zastosowaniem jest przetwarzanie dużych ilości danych na potrzeby różnego rodzaju instytucji, pełnienie roli serwerów itp.
+superkomputery – największe komputery o dużej mocy obliczeniowej, używane do czasochłonnych obliczeń naukowych i symulacji skomplikowanych systemów.
+komputery wbudowane – (lub osadzone, ang. embedded) specjalizowane komputery służące do sterowania urządzeniami z gatunku automatyki przemysłowej, elektroniki użytkowej (np. stare telefony komórkowe itp.) czy wręcz poszczególnymi komponentami wchodzącymi w skład komputerów.
+
+
+== Historia komputerów ==
+Najwybitniejsi naukowcy, których prace przyczyniły się do powstania komputerów:
+
+Christopher Latham Sholes (maszyna do pisania, 1867)
+Blaise Pascal (kalkulator od nazwiska konstruktora zwany Pascaliną, 1642)
+Gottfried Leibniz (system binarny, żywa ława do obliczeń, mechanizm stepped drum)
+Abraham Stern (maszyna licząca)
+Charles Babbage (maszyna różnicowa, maszyna analityczna)
+Ada Lovelace (prace teoretyczne, wizjonerskie w jej czasach koncepcje wykorzystania komputerów)
+Claude Shannon (teoretyczne podstawy budowy komputerów – „przekucie” algebry Boole’a i współczesnej mu wiedzy o elektronice)
+Alan Turing (teoretyczne podstawy informatyki, maszyna Turinga i uniwersalna maszyna Turinga)
+Niektóre z historycznych modeli komputerów:
+
+Atanasoff-Berry Computer – maszyna do rozwiązywania układów równań algebraicznych liniowych, skonstruowana w roku 1939 przez Johna Atanasoffa i jego studenta Clifforda Berry’ego.
+Z3 – w pełni automatyczny komputer o zmiennym programie zbudowany przez niemieckiego inżyniera Konrada Zuse w 1941 roku.
+Colossus – wyprodukowane przez rząd brytyjski podczas drugiej wojny światowej w liczbie 11 sztuk komputery lampowe, których zadaniem było łamanie szyfrów (zwłaszcza do złamania szyfrów maszyny Lorenza).
+ENIAC – tworzony w latach 1943–1946 elektroniczny komputer, który składał się z 18 tysięcy lamp elektronowych, 1500 przekaźników, ważył 30 ton i miał wymiary 15 na 9 metrów.
+
+
+== Polskie komputery ==
+cyfrowe: K-202, PRS-4, XYZ, ZAM, UMC, Odra, Mera 300, Mera 400, Poltype, R32, Mazovia, Meritum, Elwro 800 Junior, ComPAN 8
+analogowe: ELWAT, AKAT-1, ARR
+
+
+== Maszyny poprzedzające komputer ==
+maszyna do pisania
+maszyna do księgowania
+maszyna analityczna
+dalekopis
+teleks
+telegraf
+maszyny matematyczne: arytmometr, kalkulator Curta, kalkulator na korbkę, maszyna licząca, maszyna fakturująca, maszyna różnicowa, sumator, suwak logarytmiczny, automat obrachunkowy, maszyna do fakturowania, maszyna kalkulacyjna, pascalina, maszyna Turinga
+
+
+== Zobacz też ==
+
+Podstawowe pojęcia związane z komputerami:
+
+moc obliczeniowa
+sieć komputerowa
+oprogramowanie
+generacja komputera
+symulacja komputerowa
+
+
+== Uwagi ==
+
+
+== Przypisy ==
+
+
+== Linki zewnętrzne ==
+Polskie konstrukcje"}}}}

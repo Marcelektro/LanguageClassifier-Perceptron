@@ -1,0 +1,318 @@
+El conocimiento es la familiaridad, la consciencia o la comprensión de alguien o de algo, como pueden ser los hechos (conocimiento descriptivo), las habilidades (conocimiento procedimental) o los objetos (conocimiento por familiaridad). En la mayoría de los casos, el conocimiento puede adquirirse de muchas maneras y a partir de muchas fuentes, como la percepción, la razón, la memoria, el testimonio, la investigación científica, la educación y la práctica. El estudio filosófico del conocimiento se denomina epistemología.
+El término "conocimiento" puede referirse a la comprensión teórica o práctica de un tema. Puede ser implícito (como la habilidad práctica o la pericia) o explícito (como la comprensión teórica de un tema); formal o informal; sistemático o particular.[1]​ El filósofo Platón argumentó que había una distinción entre conocimiento y creencia verdadera en el Teeteto, lo que anticipó una definición de conocimiento como "creencia verdadera justificada".[2]​[3]​ Las dificultades que plantea el problema de Gettier con esta definición han sido objeto de un amplio debate en epistemología durante más de medio siglo.[2]​
+
+
+== Hacia una delimitación del concepto ==
+
+
+=== La tradición ===
+Tradicionalmente, se ha presentado el conocimiento como algo específico del ser humano que se adquiere o se relaciona con la “creencia” en la existencia del alma racional que hace posible intuir la realidad como verdad.
+Se consideraba que el conocimiento responde a las facultades intelectivas del alma conforme a los tres grados de perfección de las mismas: alma como principio de vida y automovimiento vegetativo, alma sensitiva o animal y alma humana o racional. 
+
+Según estos postulados todos los seres vivos adquieren información de su entorno por medio de sus facultades o funciones del alma:
+
+Vegetativa en los vegetales para realizar las funciones mínimas vitales de manera innata, nutrición y crecimiento, reproducción y muerte.
+Sensitiva, en los animales que produce adaptación y automovimiento local e incluye las facultades anteriores. En el grado de perfección superior aparece la memoria, aprendizaje y experiencia, pero en su grado no se puede llegar al "verdadero conocimiento" de la realidad.[4]​
+Racional en el ser humano que, además de las funciones anteriores, produce el conocimiento por conceptos que hace posible el lenguaje y la conciencia de la verdad.
+Los seres meramente materiales, inertes, sin vida y sin alma, no tienen conocimiento ni información alguna acerca del entorno, como seres completamente pasivos, solamente sometidos a la causalidad mecánica material.[5]​
+La experiencia, que es común con los animales dotados de memoria, no ofrece aún una garantía de verdad porque:
+
+es un conocimiento subjetivo de quien tiene la experiencia sensible; que es válido solo para quien lo experimenta y solo en el momento en que lo experimenta.
+ofrece solamente una verdad momentánea, cambiante, y referente a un único caso. Retenida en la memoria, solamente es capaz de aportar un contenido de verdad probable, por analogía, basándose en la semejanza de los casos y situaciones, como inducción.
+Por el contrario el conocimiento por conceptos:
+
+Es propio únicamente del ser humano gracias a la facultad del entendimiento.
+Por ser los conceptos inmateriales, independientes de las causas materiales de la experiencia, constituyen una prueba evidente de la existencia del alma racional lo que hace al ser humano un "ser espiritual" en cierto modo independiente de lo material.
+Su verdad no depende de las circunstancias porque su actividad intuitiva penetra y conoce la realidad como tal, la esencia de las cosas y por ello es posible la ciencia.[6]​
+Esto es así porque el entendimiento como potencia o facultad del alma, entendimiento agente según Aristóteles, es intuitivo y penetra en la esencia de las cosas a partir de la experiencia mediante un proceso de abstracción.
+En cuanto a la acción, frente a las meras emociones y sentimientos, que son pasiones porque en estos estados el alma es pasiva,[7]​ se encuentra la facultad de la voluntad que permite controlar las pasiones y dirigir una acción propia, como libertad que no depende de las causas materiales de la experiencia.
+Tanto el entendimiento como la voluntad se consideran facultades activas del alma específica humana, independiente de la acción de las causas materiales.[8]​
+Tanto el conocimiento sensible (experiencia como conocimiento de percepciones almacenadas en la memoria) como la motivación (los afectos o sentimientos considerados como pasiones) se consideraban fruto de la acción material del entorno sobre el alma, (el alma recibe pasivamente estos datos de información), mientras que la conceptualización y la acción libre es fruto de la acción inmaterial propia del "alma racional humana"; esto es posible porque el alma es espiritual e independiente de lo material.[9]​
+Esta concepción está en la actualidad completamente fuera del campo de la ciencia; pero sigue teniendo una gran influencia social y cultural por medio de las creencias religiosas.[10]​
+
+
+=== En la actualidad ===
+Una actividad esencial de todo individuo[11]​ en su relación con su entorno es captar o procesar información acerca de lo que lo rodea.
+Este principio fundamental sitúa la actividad humana del conocer en un ámbito general propio de todos los seres de la naturaleza.[12]​ El conocimiento, para el caso del ser humano, consiste en su actividad relativa al entorno que le permite existir y mantenerse y desarrollarse en su existencia. El caso específico humano incluye lo social y lo cultural.[13]​
+Tan fundamental es esta actividad en la vida que todos "sabemos" lo que es el conocer y el conocimiento, con tal de que no tengamos que explicarlo. Tal es la situación que ocurre con casi todos los conceptos verdaderamente importantes: la palabra es perfectamente conocida y su uso perfectamente dominado. Pero la palabra tiene una amplitud tan grande y su uso unos contextos tan variados que el concepto, tan rico y lleno de matices, resulta muy difícil de comprender y explicar.
+Por lo que siguen existiendo numerosas teorías que intentan comprenderlo y explicarlo.
+Hoy día la ciencia habla de cognición o actividades cognitivas como un conjunto de acciones y relaciones complejas dentro de un sistema complejo cuyo resultado es lo que consideramos conocimiento.
+La adquisición de conocimiento implica procesos cognitivos complejos:
+
+
+=== Conocer y saber ===
+
+Diferenciamos, de un modo técnico y formalizado los conceptos de conocer y saber, por más que, en el lenguaje ordinario, se usen a veces como sinónimos, otras veces no.[14]​[15]​[16]​
+Conocer, y su producto el conocimiento, va ligado a una evidencia que consiste en la creencia basada en la experiencia y la memoria y es algo común en la evolución de los seres naturales concebidos como sistemas, a partir de los animales superiores.[17]​
+Saber, por su parte requiere, además de lo anterior, una justificación fundamental; es decir un engarce en un sistema coherente de significado y de sentido,[18]​ fundado en lo real y comprendido como realidad; más allá del conocimiento del objeto en el momento presente como si fuera definitivo y completo. Un sistema que constituye un mundo y hace de este hecho de experiencia algo con entidad consistente.[19]​ Un conjunto de razones y otros hechos independientes de mi experiencia que, por un lado, ofrecen un "saber qué" es lo percibido como verdad y, por otro lado, orientan y definen la conducta, como un "saber hacer" como respuesta adecuada y una valoración de todo ello respecto a lo bueno.[20]​
+
+
+== Conocimiento, verdad y cultura ==
+Hay muchos tipos de conocimiento perfectamente adaptados a sus propósitos, entre ellos:
+
+la mera acumulación de experiencia
+el conocimiento de la lengua
+las leyendas, costumbres o ideas y creencias de una cultura particular, con especial relevancia de las creencias religiosas y morales
+el conocimiento que los individuos tienen de su propia historia
+el «saber hacer» en la artesanía y la técnica
+el saber artístico
+la ciencia
+Gnosis o conocimiento intuitivo de todas las cosas.
+Conocimiento escolar
+Todos esos conocimientos se desarrollan en un entorno o campo de cultivo común: la cultura basada en la tradición de una sociedad dada. En cada momento se genera información; sin embargo la cantidad de conocimiento humano es necesariamente limitada, sujeta a condiciones, y siempre quedarán problemas para los cuales el conocimiento de una sociedad o un individuo no son suficientes:
+
+el universo
+el orden
+el origen y el final de la vida
+cuestiones que, por estar más allá de la experiencia posible, quedan fuera del marco de la ciencia experimental pero siempre abiertas a la reflexión filosófica o a las creencias en explicaciones míticas.[21]​
+La razón siempre cuestionará los marcos conceptuales, teorías, que explican y amplían el mundo como campo de la investigación del universo.[22]​[23]​[24]​[25]​
+Especial relevancia tiene el conocimiento científico en relación con la verdad.
+Las ciencias constituyen uno de los principales tipos de conocimiento. Propiamente es el conocimiento con mejor garantía de ser la interpretación que mejor realiza la función representativa del lenguaje;[26]​ o, lo que es lo mismo, la mejor expresión de la verdad válidamente justificada de la realidad; la verdad científica es la que mejor representa la verdad reconocida y asumida por la Humanidad en cuanto seres racionales.
+
+Esto es así porque las ciencias son el resultado de esfuerzos sistemáticos y metódicos de investigación colectiva y social en busca de respuestas a problemas específicos como explicaciones en cuya elucidación procura ofrecernos la interpretación adecuada del universo. 
+Hoy día, dada la interacción y mutua dependencia entre la ciencia y la técnica, hablamos mejor de conocimientos científico-técnicos y de programas de investigación.[27]​
+Los conocimientos se adquieren mediante una pluralidad de procesos cognitivos: percepción, memoria, experiencia (tentativas seguidas de éxito o fracaso), razonamiento, enseñanza-aprendizaje, testimonio de terceros, etc. Estos procesos son objeto de estudio de la ciencia cognitiva. 
+Por su parte, la observación controlada, la experimentación, la modelización, la crítica de fuentes (en Historia), las encuestas, y otros procedimientos que son específicamente empleados por las ciencias, pueden considerarse como un refinamiento o una aplicación sistemática de los anteriores. Estos son objeto de estudio de la epistemología.
+La importancia de este tipo de conocimiento científico-técnico y cultural, distingue a la humanidad de las otras especies animales. Todas las sociedades humanas adquieren, preservan y transmiten una cantidad sustancial de saberes, notablemente, a través del lenguaje. Con el surgimiento de las civilizaciones, la acumulación y la difusión de conocimientos se multiplica por medio de la escritura. A través de la historia, la humanidad ha desarrollado una variedad de técnicas destinadas a preservar, transmitir y elaborar los conocimientos, tales como la escuela, las enciclopedias, la prensa escrita, las computadoras u ordenadores.
+Esta importancia va de la mano con una interrogación sobre el valor del conocimiento. Numerosas sociedades y movimientos religiosos, políticos o filosóficos han considerado que el acrecentamiento del saber, o su difusión, no resultaban convenientes y debían limitarse. A la inversa, otros grupos y sociedades han creado instituciones tendentes a asegurar su preservación, su desarrollo y su difusión. Así mismo, se debate cuáles son los valores respectivos de diferentes dominios y clases de conocimientos.
+
+En las sociedades contemporáneas, la difusión o al contrario, la retención de los conocimientos, tiene un importante papel político y económico, incluso militar; lo mismo ocurre con la propagación de pseudo-conocimientos (o desinformación). Todo ello contribuye a hacer del conocimiento una fuente de poder. Este papel explica en buena parte la difusión de la propaganda y las pseudociencias, que son tentativas por presentar como conocimientos, cosas que no lo son. Esto le confiere una importancia particular a las fuentes de conocimientos, como los medios masivos y sus vehículos, tales como la prensa e Internet y al control de los mismos.[28]​
+
+
+=== Visión filosófica clásica ===
+
+ 
+Platón dedica al estudio del problema del conocimiento el diálogo Teeteto, aunque en otros diálogos (especialmente Menón y La República) hay también importantes reflexiones sobre el tema. En la primera parte del Teeteto se discute y se rebate con numerosos argumentos la teoría relativista del sofista Protágoras, según la cual cada opinión (doxa) es verdadera para quien la sostiene. No obstante, hay que reconocer que hay opiniones o creencias falsas. En la última parte del diálogo se discute la llamada "definición platónica" del conocimiento (episteme), según la cual este está constituido por creencias u opiniones verdaderas y justificadas.[30]​ Esta definición tampoco se acepta en el propio diálogo, a pesar de lo cual, históricamente ha sido el punto de partida para prácticamente todas las investigaciones ulteriores sobre el tema (incluso hasta el presente).
+En el Teeteto, Platón reconoce que los elementos simples son por ello «irracionales», puesto que no se puede dar razón de ellos.[31]​ Luego en el Sofista intenta ir más allá de lo elemental al fundamento del mismo, a la «Idea» (Logos), la racionalidad que sirve de fundamento o, como dice Zubiri, que hace posible el «verdadero» de las cosas y los hechos como realidad.[32]​ El saber de la verdad, así concebido, es un «hecho abierto» como proceso intelectual y no un logro definitivo,[33]​ Un conjunto de razones y otros hechos independientes de mi experiencia que, por un lado, ofrecen un «saber qué» es lo percibido como verdad y, por otro lado, orientan y definen nuevas perspectivas del conocimiento y de la experiencia posible.[34]​[35]​
+Platón en su alegoría de la caverna pretende poner de manifiesto el estado en que, con respecto a la educación o falta de ella, se halla nuestra naturaleza, es decir, el estado en que se halla la mayoría de los seres humanos con relación al conocimiento de la verdad o a la ignorancia. Así, los prisioneros representan a la mayoría de la humanidad, esclava y prisionera de su ignorancia e inconsciente de ella, aferrada a las costumbres, opiniones, prejuicios y falsas creencias de siempre. Estos prisioneros, al igual que la mayoría de los seres humanos, creen que saben y se sienten felices en su ignorancia, pero viven en el error, y toman por real y verdadero lo que no son sino simples sombras de objetos fabricados y ecos de voces. Este aspecto del mito sirve a Platón para ejemplificar, mediante un lenguaje plagado de metáforas, la distinción entre mundo sensible y mundo inteligible (dualismo ontológico), y la distinción entre opinión y saber (dualismo epistemológico).
+La función principal del mito es, no obstante, exponer el proceso que debe seguir la educación del filósofo gobernante, tema central del libro VII. Este proceso está representado por el recorrido del prisionero liberado desde el interior de la caverna hasta el mundo exterior, y culmina con la visión del sol. El mito da a entender que la educación es un proceso largo y costoso, plagado de obstáculos y, por tanto, no accesible a cualquiera. El prisionero liberado debe abandonar poco a poco sus viejas y falsas creencias, los prejuicios ligados a la costumbre; debe romper con su anterior vida, cómoda y confortable, pero basada en el engaño; ha de superar miedos y dificultades para ser capaz de comprender la nueva realidad que tiene ante sus ojos, más verdadera y auténtica que la anterior. De ahí que el prisionero deba ser “obligado”, “forzado”, “arrastrado”, por una “áspera y escarpada subida”, y acostumbrarse poco a poco a la luz de fuera, hasta alcanzar el conocimiento de lo auténticamente real, lo eterno, inmaterial e inmutable: las Ideas. Pero no acaba aquí la tarea del filósofo: una vez formado en el conocimiento de la verdad, deberá “descender nuevamente a la caverna” y, aunque al principio se muestre torpe y necesite también un período de adaptación, deberá ocuparse de los asuntos humanos, los propios del mundo sensible. En la La República el conocimiento cabal, en tanto que racional se caracteriza como necesariamente verdadero, y como fundado en principios no hipotéticos. Estos principios sólo pueden alcanzarse mediante la facultad dialéctica, que debe "abrirse paso, como en una batalla, a través de todas las objeciones".[36]​ 
+
+En cambio el saber de las "artes", (tal como lo entendían los clásicos se refieren a lo que hoy llamamos ciencias incluidas las matemáticas), parten de simples hipótesis, ofreciendo por tanto una explicación condicionada y no un conocimiento categórico.[37]​[38]​ 
+Por supuesto, las creencias y la opinión, incluso si son verdaderas, se consideran ignorantes de la realidad de las cosas y quedan relegadas al ámbito de lo probable y lo aparente.
+Tradicionalmente la vinculación entre conocimiento, verdad y necesidad forma parte de toda pretensión de conocimiento filosófico y científico.
+
+
+=== Epistemología actual ===
+
+En la actualidad, sin embargo, a esta doctrina se oponen las posturas falibilistas, según las cuales la verdad estricta no es una característica esencial del conocimiento o la ciencia auténticos.
+El falibilismo fue ampliamente difundido por Karl Popper en el siglo XX, y junto con las aportaciones de la sociología de la ciencia, Thomas Kuhn, y la insuficiencia de los métodos, Feyerabend, entre otros factores[39]​ hacen que la nueva epistemología tenga una fundamentación abierta.[40]​
+Del falibilismo y la definición platónica se considera que los conocimientos son esencialmente creencias suficientemente justificadas. Postura expresamente mantenida por el filósofo mexicano Luis Villoro entre otros.[41]​
+La reflexión sobre el propio conocimiento genera su propia ciencia y filosofía:
+
+Gnoseología/Epistemología, también denominada Teoría del conocimiento.
+Filosofía de la ciencia
+
+
+=== Visión científico-técnica ===
+En ciencias, es común asumir la existencia de un conjunto continuo progresivamente complejo y organizado, integrado por los datos, la información, el conocimiento y la sabiduría, que permiten resolver un determinado problema o tomar una decisión (conocimiento "accionable").
+
+Para alcanzar el conocimiento se aplica el llamado método científico, existiendo múltiples vías de llegar al mismo: método empírico, método histórico, método lógico, método estadístico, analogía, etc.
+En general, para que una creencia constituya conocimiento científico no basta con que sea válida y consistente lógicamente, pues ello no implica su verdad.[42]​ Para que una teoría deba ser considerada como verdadera, deben existir, desde el punto de vista de la ciencia, pruebas que la apoyen. Es decir, debe poder demostrarse su verosimilitud empleando el método científico, conforme a una lógica empírica y un método experimental.
+Esto sin embargo se ve seriamente complicado si se introducen interrogantes relativas a la suficiencia de dicho método, como por ejemplo, la transparencia de los hechos (¿existen los hechos puros o más bien interpretaciones?), la factibilidad de la pretensión de objetividad y neutralidad valórica (¿es posible la comprensión de la realidad desde un punto de vista neutro, tal como fuera el de un dios, o estamos condenados a perspectivas?), etc.[43]​
+
+
+=== Tradiciones culturales y visión religiosa ===
+Sin embargo, el concepto de conocimiento es más general que el de conocimiento científico. Es así que las tradiciones culturales y las creencias religiosas constituyen un tipo especial de conocimiento diferente al conocimiento científico: un tipo de saber vivido como creencia dentro del entorno social y cultural y tenido como experiencia acumulada o revelación recibida de los ancestros.
+
+
+== Conocimiento y vida ==
+La experiencia adquiere múltiples matices y contenidos en la vida de uno mismo y en la vida social y cultural y, por tanto, también los contenidos y conocimientos verdaderos, que dependen de un contexto o campo de realidad, y no tienen por qué coincidir con los contenidos y el sentido del conocimiento científico. La vida y los conocimientos de la vida, como experiencia, es un campo mucho más amplio que el de la ciencia. No siempre el conocimiento científico es el más adecuado para vivir y convivir mejor. Por eso hay que admitir una verdad relativa porque el conocimiento mismo es siempre relativo.[44]​
+La creencia en la posesión del conocimiento verdadero, como explicación definitiva, como evidencia definitiva, conduce fácilmente al fanatismo.[45]​
+
+
+== Tipos de conocimiento y rasgos que los caracterizan ==
+
+Dada la enorme complejidad de las actividades cognitivas y los múltiples campos de aplicación de las mismas, se hacen necesarias algunas clasificaciones metodológicas y rasgos característicos para su mejor consideración y estudio.
+
+
+=== Rasgos generales ===
+Todo conocimiento humano tiene una dimensión profundamente cultural, tanto en su origen y formación como en su aplicación.
+Algunos conocimientos tienen la posibilidad de ser expresados mediante el lenguaje adquiriendo de esta forma una dimensión objetiva, intercomunicativa y codificada, lo que permite su transmisión y conservación así como su interpretación entre diversos individuos, diversas culturas y diversas lenguas.
+Los conocimientos no siempre son objetivables y comunicables ni conscientes, pero en todo caso orientan y dirigen la acción como comportamiento. Esto es especialmente aplicable a los que son fruto de la mera experiencia.
+
+
+=== Por la especificidad de su aplicación ===
+Los conocimientos pueden ser:
+
+
+==== Teóricos ====
+En tanto que pretenden manifestar una verdad como representación o interpretación de la realidad, pueden ser:
+
+científicos, cuando son el resultado de esfuerzos sistemáticos y metódicos de investigación colectiva y social en busca de respuestas a problemas específicos como explicaciones en cuya elucidación procura ofrecernos la interpretación adecuada del universo;
+filosóficos, cuando intentan fundamentar el mismo conocimiento, y abarcar el universo como un todo de sentido, ampliando las perspectivas generales de todo conocimiento mediante la crítica de los propios fundamentos;
+de creencias, que se aceptan como verdades evidentes.
+Estos pueden ser:
+
+teológicos, con base en una revelación divina;
+tradicionales, transmitidos culturalmente. Estos a su vez pueden ser:
+locales, un conocimiento desarrollado alrededor de un área geográfica definida.
+globales, formados mediante redes o comunidades, pertenecientes a lugares geográficos dispares incluso culturalmente.
+
+
+==== Conocimientos prácticos ====
+
+En tanto que están orientados a realizar una acción para alcanzar un fin:
+
+morales, referentes a las normas de comportamiento social;
+éticos referentes a la reflexión y fundamentación de la moral respecto a un sentido o finalidad última;
+políticos, referentes al fundamento y organización del poder social;
+artísticos, como expresión de la sensibilidad estética, atendiendo a la belleza;
+técnicos, atendiendo a la utilidad de los resultados de la acción en muy diversos campos.
+la producción económica
+la dirección política y social de organizaciones sociales
+la economía doméstica
+las habilidades personales
+
+
+=== Por la estructura de su contenido ===
+Formales: Carecen de contenido material alguno. Muestran solamente una estructura lógica mediante relaciones y operaciones previamente definidas de símbolos sin significación alguna (lógica y matemáticas)
+Materiales: Todos los demás conocimientos que no son formales, por cuanto tienen un contenido o materia acerca de la cual ofrecen información.
+Orientado, cuando hace referencia a las relaciones causales entre conceptos: ley descriptiva o explicaciones.
+Axiomático, cuando se refiera a explicaciones de causas finales o sucesos fundados a priori como verdaderos: teorías o fundamentaciones de la ciencia.
+
+
+=== Por el carácter de su divulgación ===
+Público, si es fácil de compartir, y consiste en un conocimiento creado/difundido por la sociedad.
+Privado, si es personal construido por el propio individuo; es la base del conocimiento público.
+Explícito, si puede ser transmitido de un individuo a otro mediante algún medio de comunicación formal.
+Tácito o implícito, habitualmente arraigado en experiencias personales, modelos mentales y hábitos que, sin embargo, informan los modos personales de conocimiento.[46]​
+Codificado, si se puede almacenar o especificar formalmente de tal manera que no se pierda ninguna información. Por contraposición, el conocimiento no codificado es aquel que no puede ser codificado, ya que es difícil de expresar o explicitar.
+
+
+==== Por su origen ====
+Conocimiento analítico o a priori, cuando su información consiste en la forma lógica de las relaciones lógicas entre los contenidos de los que trata. Es, pues, un conocimiento independiente de la experiencia, pues es tautológico o meramente lógico-formal. Su fundamento es la deducción.[47]​
+Conocimiento sintético o a posteriori, porque su comprensión como concepto y lenguaje deriva y depende de la experiencia. Su fundamento es la inducción.
+Empírico, cuyo contenido consiste únicamente en la mera experiencia, por lo que apenas tiene contenido conceptual y es difícil de ser expresado en palabras. Suele aplicarse a emociones y sentimientos del individuo.
+
+
+==== Finalidad ====
+Ciencia: cuando pretende interpretar adecuadamente la realidad.
+Comunicativo: cuando pretende transmitir información.
+Expresivo: cuando pretende transmitir emociones y sentimientos, así como experiencias estéticas.
+
+
+==== Por el soporte de su conservación y divulgación ====
+Cultural, propiamente dicho; cuando es propio de una organización, se empleen términos, nomenclaturas y procedimientos acordados internamente. Los ámbitos culturales pueden ir desde una civilización a una sociedad política concreta o espacialmente determinada o un grupo social reducido: científicos, un grupo empresarial, un club deportivo, una secta o incluso un grupo de amigos.
+Bibliográfico: diccionarios, libros y soportes literarios.
+Artístico: escultura, pintura, literatura, música, teatro, etc.
+Informatizado o digitalizado
+
+
+==== Tipos ====
+
+
+==== Por la forma de su adquisición ====
+Académico, cuando es adquirido en instituciones sujetas a normas y finalidades definidas.
+Profesional, cuando es adquirido en el ejercicio de una profesión determinada.
+Vulgar, cuando es producto del mero intercambio de informaciones entre iguales.
+Tradicional, cuando responde a una transmisión hereditaria cultural.
+Religioso, cuando se desarrolla en un ámbito de institución social de ese tipo.
+
+
+== Generación formal del conocimiento ==
+El conocimiento desde el punto de vista formal puede ser generado de diversas formas. Una forma sistemática de generar conocimiento humano tiene las siguientes etapas:
+1. Investigación básica (ciencias). Publicación de aportes predominantemente a través de memorias de congresos y de artículos especializados.
+2. Investigación aplicada o de análisis (tecnología, humanidades, etc.). Publicación de aportes igual que en ciencias básicas.
+Estas 2 primeras etapas pueden interactuar y ciclarse ya que puede existir un artículo con un aporte muy pequeño y luego uno que reúna los aportes de dos o más artículos. La investigación aplicada se basa en el conocimiento de las ciencias básicas pero también en cualquier manifestación de conocimiento. La investigación aplicada puede generar más conocimiento aunque la investigación básica no lo haga, sin embargo, nuevas aportaciones en ciencias básicas conllevan un gran cúmulo de nuevas potencialidades para la generación de conocimiento aplicado.
+
+3. Libros científicos o técnicos. Un libro científico o técnico se hace agrupando, catalogando y resumiendo el conocimiento existente en un determinado tema. Un libro actualizado deberá incluir los últimos aportes que sobre el tema que trate hayan sido generados.
+4. Divulgación. Partiendo del conocimiento existente o del flamante son publicados diversos artículos en revistas o libros de divulgación con la intención de que el conocimiento sea explicado a la población en general (no especializada). Es en esta etapa cuando el conocimiento llega a la población de forma masiva. También puede llegar a través de los medios de comunicación electrónicos, como Wikipedia.
+
+
+=== Vías de acceso al conocimiento ===
+
+El conocimiento sobre el mundo puede provenir de diferentes fuentes:
+
+Intuición: se considera tal el conocimiento que se tiene como directo e inmediato del objeto conocido. No suele basarse en la confirmación empírica, ni sigue un camino racional para su construcción y formulación. Por ello no puede explicarse o, incluso, verbalizarse.
+Experiencia: lo conocido es un contenido de experiencia. Su referencia y fundamento, en último término, es el testimonio directo o indirecto (a través de aparatos) de la percepción de los sentidos.
+Tradición: es la cultura que una generación hereda de las anteriores y llega a las siguientes. Aquí entra en juego el conocimiento cultural y el aprendizaje de normas sociales que no suelen cuestionarse.[48]​
+Autoridad: se establece la verdad de un conocimiento tomando como referencia la fuente del mismo. La influencia de la autoridad se relaciona con el estatus que posee: Científico, moral, político, artístico etc.
+Ciencia: es el conjunto de conocimientos racionales, ciertos o probables, los cuales son obtenidos de una forma metódica, verificados y contrastados con la realidad, que se refiere a objetos o conceptos de una misma naturaleza que son valorados y aceptados por la comunidad científica. Aunque no siempre los conocimientos científicos son aceptados por la comunidad social.[49]​
+
+
+== Enfoque histórico y gnoseológico ==
+
+Todos los filósofos, de una manera u otra, se ocuparon del problema del conocimiento. La relevancia que ahora ha tomado se inicia ya con las posiciones idealistas. Cuando la conciencia, en Descartes, es prioritaria, y cuando en Kant la razón humana es conformadora del objeto, el conocimiento comienza a ser un problema central. Los tiempos del realismo espontáneo de toda la antigüedad y el Medioevo, llegaron así a su fin.
+En Grecia predominan los problemas ontológicos. Desde Descartes, Berkeley, Malebranche, Leibniz, Locke, Hume y otros, predominarán los problemas gnoseológicos. En ellos el tema es relevante, pero todavía no se sienten llevados a pensar que el asunto merezca una disciplina de estudio especial. Será Kant quien con plena conciencia establecerá que el conocimiento requiere una “teoría” especial. Autores posteriores, de manera explícita o implícita, llegaron luego a considerar que el problema del conocimiento era fundamental en la filosofía.
+La descripción minuciosa de lo que acontece en el conocimiento humano dio lugar a una “fenomenología del conocimiento”.[50]​ Aquí, de lo que se trata, es de efectivizar una descripción de lo que puntualmente aparece en el hecho del conocimiento humano. Pretende ser una descripción “pura” y no atiende a lo generador, o genético. 
+El problema raíz consiste en delimitar la relación que se da en el conocimiento entre el sujeto cognoscente y el objeto conocido. 
+Conocer tiene lugar cuando el sujeto cognoscente aprehende o se apropia del objeto conocido. La coexistencia de ambos factores es de rigor. El énfasis puesto en uno u otro de los dos componentes, determina que unos filósofos, por dar predominancia al objeto, deriven en posiciones realistas. En sentido contrario, los que den preeminencia al sujeto se inclinarán hacia actitudes y teorizaciones idealistas. 
+El problema de la posibilidad del conocimiento como verdad es otro de los que se presentan en el análisis:
+
+El escepticismo, desde los griegos, niega esa posibilidad. Desde siempre se ha encontrado en esta postura, una contradicción. Se niega el conocimiento de la verdad desde la afirmación del conocimiento de que ese algo no es posible.
+En cambio el dogmatismo da por supuesto el conocimiento verdadero como supuesto fundamental.
+Lo más frecuente es que tanto en el escepticismo como en dogmatismo las posiciones sean moderadas o sincréticas.
+
+
+=== El origen del conocimiento ===
+
+Los empiristas estiman que el aporte de los sentidos es lo fundamental siendo los conceptos meras generalizaciones de la experiencia. Sostienen posiciones tendentes a un concepto de verdad escéptico, probable y no dogmático. Tal corriente en la antigüedad estuvo presente en los sofistas y pirronianos. En la Edad Media los nominalistas y en la Edad Moderna los empiristas ingleses.
+Los racionalistas tienden a valorar el conocimiento conceptual y lógico en tanto que hacen posibles razonamientos deductivos. Su modelo de razón es el análisis formal. Y la ciencia matemática su modelo. Aquí será frecuente el sostenimiento de la presencia de “ideas innatas” en el hombre, que se poseen fuera del concurso de todo aporte exterior.[51]​
+En la actualidad esta problemática es asumida totalmente por la ciencia con planteamientos completamente nuevos sobre el hecho de la Teoría de la Evolución y la antropología cultural.
+
+
+=== Conocimiento y verdad ===
+
+Es tradicional la definición de la verdad del conocimiento como adecuación entre lo contenido en el intelecto y la cosa. 
+A este respecto, en el siglo XX, Heidegger introducirá un enfoque diferente, que a su entender ya estuvo en lo más destacado y olvidado de los grandes filósofos griegos: la verdad como descubrimiento o desvelamiento del ser, por el solo hecho de mostrarse como fenómeno primario. 
+Esta postura es un intuicionismo extremo, que también ha estado presente en otros pensadores, como modo de captación de lo verdadero. Entre ellos Bergson, que sostenía la posibilidad de la intuición intelectual, distinta de todo trato racional o de inferencias deductivas.
+En todo caso la verdad aparece como perspectiva, (Ortega y Gasset), "respectiva" como realidad mundanal, (Zubiri op. cit.) o "relativa" a un sistema lógico, (Gödel), y en cualquier caso, (Popper), con una relación asintótica con lo real o como una relación "hermenéutica analógica" como plantea Mauricio Beuchot. Lo que, inevitablemente hace de la verdad el "ser" historia", además de constituirse como "hecho histórico" en todos los aspectos de su "realización" en tanto que verdad conocida, realidad como actualización de posibilidades de lo real.
+
+
+== Véase también ==
+Gnoseología o Teoría del conocimiento
+Teoría de la justificación
+Entendimiento
+Sabiduría
+Discernimiento
+Falsificación del conocimiento
+Sociología del conocimiento
+Conocimiento a posteriori
+Representación del conocimiento
+Gestión del conocimiento
+Organización de aprendizaje
+Tecnociencia
+Gñana
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Bachelard, G. (1978). La filosofía del no. Buenos Aires. Amorrortu. ISBN 84-610-30155-X. 
+Beuchot, Mauricio (2003). Hermenéutica analógica y del umbral. Salamanca, San Esteban, 2003. 
+Bohm, D. (1992). La totalidad y el orden implicado. BARCELONA. EDITORIAL KAIROS. ISBN 84-7245-178-X. 
+Cassirer, E. El problema del conocimiento en la filosofía y en la ciencia modernas, México, FCE, 1979, 4 vols.
+Dancy, J. (1993). Introducción a la epistemología contemporánea. Madrid, Tecnos. ISBN 978-84-309-4612-9. 
+Dawkins, R. J. (2005). El gen egoísta. Las bases biológicas de nuestra conducta. Barcelona. Salvat. ISBN 84-345-0178-3. 
+Ferrater Mora, J. (1979). De la materia a la razón. Madrid. Alianza Editorial. ISBN 84-206-2225-7. 
+Ferrater Mora, J. (1984). Diccionario de Filosofía (4 tomos). Barcelona. Alianza Diccionarios. ISBN 84-206-5299-7. 
+Fried Schnitman, D.; Ilya Prigogine et al. (1994). Nuevos paradigmas: Cultura y subjetividad. Buenos Aires, Paidós. ISBN 950-12-7023-8. 
+Hurtado, G. ¿SABER SIN VERDAD? OBJECIONES A UN ARGUMENTO DE VILLORO. CRÍTICA, Revista Hispanoamericana de Filosofía. Vol. 35, No. 103 (abril de 2003) pp. 121-134
+Husserl, E. Investigaciones Lógicas, 2 Volúmenes, Alianza, Buenos Aires, 2005, Trad. de Manuel García Morente y José Gaos. ISBN 84-206-8196-2
+Husserl, E. Ideas Relativas a una Fenomenología Pura y una Filosofía Fenomenológica, Trad. José Gaos, Fondo de Cultura Económica, México, 1949, 1993 ISBN 84-375-0255-1
+Lamote de Grignon, C. (1993). Antropología neuroevolutiva: un estudio sobre la naturaleza humana. Faes Farma. ISBN. 
+Lakatos, I. (1983). La metodología de los programas de investigación científica. Madrid. Alianza Editorial. ISBN 84-206-2349-0. 
+Lyotard, J.F. (1994). La condición postmoderna: informe sobre el saber. Madrid, Cátedra. ISBN 84-376-0466-4. 
+Merleau-Ponty, M. (1985). Fenomenología de la percepción. Barcelona. Planeta-Agostini. ISBN 84-395-0029-7. 
+Moulines Castellví, C. Ulises (1973). La estructura del mundo sensible. Sistemas fenomenalistas. Barcelona. Ariel. 
+Penrose, R. (1991). La nueva mente del emperador. Madrid. Mondadori. ISBN 84-397-1786-5. 
+Putnam, H. (1988). Razón, verdad e historia. Madrid. tecnos. ISBN 84-309-1577-X. 
+Quesada, D. (1998). Saber, opinión y ciencia: Una introducción a la teoría del conocimiento clásica y contemporánea. Barcelona. Ariel. ISBN 84-344-8746-2. 
+Quine, W.V. (1998). Del estímulo a la ciencia. Barcelona. Ariel. ISBN 84-344-8747-0. 
+Russell, B. (1959). El conocimiento humano:su alcance y sus limitaciones. Madrid. Taurus. 
+Uexküll, J. (1951). Ideas para una concepción biológica del mundo. Buenos Aires. Espasa-Calpe. 
+Verneaux, Roger, Epistemología general o crítica del conocimiento, trad. Luisa Medrano, Herder, 1999.
+Villoro, L. (1982): Creer, saber, conocer, Siglo XXI Editores, México DF, ISBN 968-23-1151-9.
+Villoro, L. (editor) (1999-2013): El conocimiento. Enciclopedia Iberoamericana de Filosofía, vol. 20, Ed. Trotta, CSIC, ISBN 978-84-87699-48-1 (obra completa). ISBN 978-84-9879-402-1 (edición digital).
+Zubiri, X. (1980). Inteligencia sentiente. Madrid. Alianza Editorial. ISBN 84-206-9011-2. 
+Zubiri, X. (1982). Inteligencia y Logos. Madrid. Alianza Editorial. ISBN 84-206-9012-0. 
+Zubiri, X. (1983). Inteligencia y Razón. Madrid. Alianza Editorial. ISBN 84-206-9016-3. 
+PLATÓN, República, Libro VII. Ed. Gredos, Madrid. 1992 (traducción de C. Eggers Lan).
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Conocimiento.
+ Wikiquote alberga frases célebres de o sobre Conocimiento.
+ Wikcionario  tiene definiciones y otra información sobre conocimiento.
+Los grados del saber y su relación con los grados del arte en Aristóteles.  — PDF"}}}}
