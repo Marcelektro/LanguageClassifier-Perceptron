@@ -12,6 +12,8 @@ public class Perceptron {
     private double alpha;
     private double beta;
 
+    private double netValue;
+
 
     // task requirement: constructor with weights, vector len, threshold and alpha val
     public Perceptron(
@@ -35,6 +37,8 @@ public class Perceptron {
         for (int i = 0; i < input.length; i++) {
             sum += (input[i] * this.weights[i]);
         }
+
+        this.netValue = sum;
 
         return sum >= 0 ? 1 : 0;
     }
@@ -69,6 +73,10 @@ public class Perceptron {
 
     public double getBeta() {
         return beta;
+    }
+
+    public double getNetValue() {
+        return netValue;
     }
 
 }

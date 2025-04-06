@@ -174,7 +174,8 @@ public class LangClassifier {
         for (Map.Entry<String, Perceptron> entry : this.langPerceptron.entrySet()) {
             final var lang = entry.getKey();
             final var perceptron = entry.getValue();
-            final var score = perceptron.compute(freq);
+            perceptron.compute(freq);
+            final var score = perceptron.getNetValue();
 
 //            System.out.println("Score for " + lang + ": " + score);
 
