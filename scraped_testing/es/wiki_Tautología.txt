@@ -1,0 +1,400 @@
+En lógica proposicional, una tautología es una fórmula bien formada que resulta verdadera para cualquier interpretación; es decir, para cualquier asignación de valores de verdad que se haga a sus fórmulas atómicas.[1]​[2]​ La construcción de una tabla de verdad es un método efectivo para determinar si una fórmula cualquiera es una tautología o no.[2]​
+
+
+== Tablas de verdad ==
+
+En un sistema de lógica proposicional, una interpretación es una asignación de valores de verdad (verdadero o falso) a cada una de las fórmulas atómicas bajo consideración. Diferentes interpretaciones, por lo tanto, difieren solo en las asignaciones de valores de verdad que hacen. Una tautología es una fórmula bien formada que resulta verdadera bajo todas las interpretaciones posibles de sus fórmulas atómicas. Por lo tanto, para determinar si una fórmula cualquiera es una tautología, basta con considerar todas las posibles interpretaciones de las fórmulas atómicas, y calcular el valor de verdad de la fórmula completa. Esto se logra mediante una tabla de verdad. Por ejemplo, considérese la fórmula p ∧ q. Como a cada fórmula atómica se le puede asignar uno de dos posibles valores de verdad, entonces hay en total 22 = 4 posibles combinaciones de valores de verdad. Es decir, cuatro interpretaciones posibles: o ambas son verdaderas; o p es verdadera y q falsa; o p es falsa y q verdadera;o ambas son falsas. Esto se puede presentar mediante una simple tabla:
+
+  
+    
+      
+        
+          
+            
+              
+                p
+              
+              
+                q
+              
+            
+            
+              
+                V
+              
+              
+                V
+              
+            
+            
+              
+                V
+              
+              
+                F
+              
+            
+            
+              
+                F
+              
+              
+                V
+              
+            
+            
+              
+                F
+              
+              
+                F
+              
+            
+          
+        
+      
+    
+    {\\displaystyle {\\begin{array}{c|c}p&q\\\\\\hline V&V\\\\V&F\\\\F&V\\\\F&F\\\\\\end{array}}}
+  
+
+Para cada una de estas interpretaciones, se puede calcular el valor de verdad de la fórmula p ∧ q. Los resultados se pueden presentar nuevamente mediante una tabla:
+
+  
+    
+      
+        
+          
+            
+              
+                p
+              
+              
+                q
+              
+              
+                p
+                ∧
+                q
+              
+            
+            
+              
+                V
+              
+              
+                V
+              
+              
+                V
+              
+            
+            
+              
+                V
+              
+              
+                F
+              
+              
+                F
+              
+            
+            
+              
+                F
+              
+              
+                V
+              
+              
+                F
+              
+            
+            
+              
+                F
+              
+              
+                F
+              
+              
+                F
+              
+            
+          
+        
+      
+    
+    {\\displaystyle {\\begin{array}{c|c|c}p&q&p\\land q\\\\\\hline V&V&V\\\\V&F&F\\\\F&V&F\\\\F&F&F\\\\\\end{array}}}
+  
+
+Esta es la tabla de verdad de la fórmula p ∧ q. Como se ve, esta fórmula solo es verdadera bajo una interpretación: aquella en la que ambas fórmulas atómicas son verdaderas. Una tautología es una fórmula que es verdadera para todas las interpretaciones posibles de las fórmulas atómicas. Por lo tanto, p ∧ q no es una tautología. En cambio, la siguiente tabla de verdad muestra una fórmula que sí lo es:
+
+  
+    
+      
+        
+          
+            
+              
+                p
+              
+              
+                q
+              
+              
+                p
+                ∧
+                q
+              
+              
+                (
+                p
+                ∧
+                q
+                )
+                →
+                p
+              
+            
+            
+              
+                V
+              
+              
+                V
+              
+              
+                V
+              
+              
+                V
+              
+            
+            
+              
+                V
+              
+              
+                F
+              
+              
+                F
+              
+              
+                V
+              
+            
+            
+              
+                F
+              
+              
+                V
+              
+              
+                F
+              
+              
+                V
+              
+            
+            
+              
+                F
+              
+              
+                F
+              
+              
+                F
+              
+              
+                V
+              
+            
+          
+        
+      
+    
+    {\\displaystyle {\\begin{array}{c|c|c|c}p&q&p\\land q&(p\\land q)\\to p\\\\\\hline V&V&V&V\\\\V&F&F&V\\\\F&V&F&V\\\\F&F&F&V\\\\\\end{array}}}
+  
+
+Si una fórmula tiene n fórmulas atómicas distintas, entonces tiene 2n interpretaciones posibles. En muchos casos, por lo tanto, las tablas de verdad pueden ser muy grandes. Lo importante, sin embargo, es que dado que la lógica proposicional no admite fórmulas infinitamente largas, el número de interpretaciones posibles siempre será finito, y por lo tanto siempre será posible decidir si una fórmula cualquiera es una tautología o no.
+
+
+== Operación nularia ==
+
+Siendo 
+  
+    
+      
+        
+          
+            P
+          
+        
+      
+    
+    {\\displaystyle {\\mathcal {P}}}
+  
+ el conjunto de proposiciones, y 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+        ,
+        d
+        ,
+        …
+      
+    
+    {\\displaystyle a,b,c,d,\\dots }
+  
+ proposiciones de 
+  
+    
+      
+        
+          
+            P
+          
+        
+      
+    
+    {\\displaystyle {\\mathcal {P}}}
+  
+, se puede definir la operación nularia: tautología, por la que sin argumentos o independientemente de los argumentos, a una variable 
+  
+    
+      
+        a
+        
+      
+    
+    {\\displaystyle a\\,}
+  
+ de 
+  
+    
+      
+        
+          
+            P
+          
+        
+      
+    
+    {\\displaystyle {\\mathcal {P}}}
+  
+ se le asigna el valor verdadero.
+
+  
+    
+      
+        
+          
+            
+              
+                ⊤
+                :
+              
+              
+                ∅
+              
+              
+                ⟶
+              
+              
+                
+                  
+                    P
+                  
+                
+              
+            
+            
+              
+              
+                (
+                )
+              
+              
+                ↦
+              
+              
+                a
+                =
+                ⊤
+                (
+                )
+                =
+                V
+              
+            
+          
+        
+      
+    
+    {\\displaystyle {\\begin{array}{rrcl}\\top :&\\varnothing &\\longrightarrow &{\\mathcal {P}}\\\\&()&\\mapsto &a=\\top ()=V\\end{array}}}
+  
+
+Una tautología es equivalente al valor verdadero, independientemente de los argumentos de la expresión o función a la que se puede reducir, a la derecha se puede ver diagramas de Venn que representan el valor verdadero para: ninguna, una o dos variables. Esto es una función o relación de variables lógicas o booleanas es una tautología si es equivalente al valor verdadero para todos los posibles valores de sus variables.
+
+
+== Regla de reemplazo ==
+
+En lógica proposicional, la tautología es también una regla de reemplazo comúnmente utilizada[3]​ para eliminar la redundancia en disyunciones y conjunciones en las demostraciones lógicas. La tautología se materializa en dos principios:
+El principio de idempotencia de la disyunción
+
+  
+    
+      
+        P
+        ∨
+        P
+        ⇔
+        P
+      
+    
+    {\\displaystyle P\\lor P\\Leftrightarrow P}
+  
+
+y el principio de idempotencia de la conjunción
+
+  
+    
+      
+        P
+        ∧
+        P
+        ⇔
+        P
+      
+    
+    {\\displaystyle P\\land P\\Leftrightarrow P}
+  
+
+donde "
+  
+    
+      
+        ⇔
+      
+    
+    {\\displaystyle \\Leftrightarrow }
+  
+" es un símbolo metalógico que representa "puede ser reemplazado en una demostración lógica por".
+
+
+== Véase también ==
+Cálculo lógico
+Principio de identidad
+Verdad lógica
+
+
+== Notas y referencias =="}}}}

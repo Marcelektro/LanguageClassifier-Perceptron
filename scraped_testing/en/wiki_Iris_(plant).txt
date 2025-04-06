@@ -1,0 +1,333 @@
+Iris is a flowering plant genus of 310 accepted species with showy flowers. As well as being the scientific name, iris is also widely used as a common name for all Iris species, as well as some belonging to other closely related genera. A common name for some species is flags, while the plants of the subgenus Scorpiris are widely known as junos, particularly in horticulture. It is a popular garden flower.
+The often-segregated, monotypic genera Belamcanda (blackberry lily, I. domestica), Hermodactylus (snake's head iris, I. tuberosa), and Pardanthopsis (vesper iris, I. dichotoma) are currently included in Iris.
+Three Iris varieties are used in the Iris flower data set outlined by Ronald Fisher in his 1936 paper The use of multiple measurements in taxonomic problems as an example of linear discriminant analysis.
+
+
+== Description ==
+
+Irises are perennial plants, growing from creeping rhizomes (rhizomatous irises) or, in drier climates, from bulbs (bulbous irises). They have long, erect flowering stems which may be simple or branched, solid or hollow, and flattened or have a circular cross-section. The rhizomatous species usually have 3–10 basal sword-shaped leaves growing in dense clumps. The bulbous species also have 2–10 narrow leaves growing from the bulb.
+
+
+=== Flower ===
+The inflorescences are in the shape of a fan and contain one or more symmetrical six-lobed flowers. These grow on a pedicel or peduncle. The three sepals, which are usually spreading or droop downwards, are referred to as "falls". They expand from their narrow base (the "claw" or "haft"), into a broader expanded portion ("limb" or "blade") and can be adorned with veining, lines or dots. In the centre of the blade, some of the rhizomatous irises have a "beard", a row of fuzzy hairs at the base of each falls petal which gives pollinators a landing place and guides them to the nectar.
+The three, sometimes reduced, petals stand upright, partly behind the sepal bases. They are called "standards". Some smaller iris species have all six lobes pointing straight outwards, but generally limb and standards differ markedly in appearance. They are united at their base into a floral tube that lies above the ovary (This flower, with the petals, and other flower parts, above the ovary is known as an epigynous flower, and it is said to have an inferior ovary, that is an ovary below the other flower parts). The three styles divide towards the apex into petaloid branches; this is significant in pollination.
+
+The iris flower is of interest as an example of the relation between flowering plants and pollinating insects. The shape of the flower and the position of the pollen-receiving and stigmatic surfaces on the outer petals form a landing-stage for a flying insect, which in probing for nectar, will first come into contact with the perianth, then with the three stigmatic stamens in one whorled surface which is borne on an ovary formed of three carpels. The shelf-like transverse projection on the inner whorled underside of the stamens is beneath the overarching style arm below the stigma, so that the insect comes in contact with its pollen-covered surface only after passing the stigma; in backing out of the flower it will come in contact only with the non-receptive lower face of the stigma. Thus, an insect bearing pollen from one flower will, in entering a second, deposit the pollen on the stigma; in backing out of a flower, the pollen which it bears will not be rubbed off on the stigma of the same flower.
+The iris fruit is a capsule which opens up in three parts to reveal the numerous seeds within. In some species, the seeds bear an aril, such as Iris stolonifera which has light brown seeds with thick white aril.
+
+
+== Etymology ==
+The genus takes its name from the Greek word ἶρις îris "rainbow", which is also the name for the Greek goddess of the rainbow, Iris. Some authors state that the name refers to the wide variety of flower colors found among the many species. 
+
+
+== Taxonomy ==
+Iris is the largest genus of the family Iridaceae with up to 300 species – many of them natural hybrids. Plants of the World Online lists 310 accepted species from this genus as of 2022. Modern classifications, starting with Dykes (1913), have subdivided them. Dykes referred to the major subgroupings as sections. Subsequent authors such as Lawrence (1953) and Rodionenko (1987) have generally called them subgenera, while essentially retaining Dykes' groupings, using six subgenera further divided into twelve sections. Of these, section Limneris (subgenus Limneris) was further divided into sixteen series. Like some older sources, Rodionenko moved some of the bulbous subgenera (Xiphium, Scorpiris and Hermodactyloides) into separate genera (Xiphion, Juno and Iridodictyum respectively), but this has not been accepted by later writers such as Mathew (1989), although the latter kept Hermodactylus as a distinct genus, to include Hermodactylus tuberosus, now returned to Hermodactyloides as Iris tuberosa.
+Rodionenko also reduced the number of sections in subgenus Iris, from six to two, depending on the presence (Hexapogon) or absence (Iris) of arils on the seeds, referred to as arilate or nonarilate. Taylor (1976) provides arguments for not including all arilate species in Hexapogon.
+In general, modern classifications usually recognise six subgenera, of which five are restricted to the Old World; the sixth (subgenus Limniris) has a Holarctic distribution. The two largest subgenera are further divided into sections. The Iris subgenus has been divided into six sections; bearded irises (or pogon irises), Psammiris, Oncocyclus, Regelia, Hexapogon and Pseudoregelia. Iris subg. Limniris has been divided into 2 sections; Lophiris (or 'Evansias' or crested iris) and Limniris which was further divided into 16 series.
+
+
+=== Evolution ===
+The concept of introgressive hybridization (or "introgression") was first coined to describe the pattern of interspecific hybridization followed by backcrossing to the parentals that is common in this genus.
+
+
+=== Subgeneric division ===
+
+
+==== Subgenera ====
+Iris (Bearded rhizomatous irises)
+Limniris (Beardless rhizomatous irises)
+Xiphium (Smooth-bulbed bulbous irises: Formerly genus Xiphion)
+Nepalensis (Bulbous irises: Formerly genus Junopsis)
+Scorpiris (Smooth-bulbed bulbous irises: Formerly genus Juno)
+Hermodactyloides (Reticulate-bulbed bulbous irises: Formerly genus Iridodictyum)
+
+
+==== Sections, series and species ====
+
+
+== Distribution and habitat ==
+
+Nearly all species are found in temperate Northern Hemisphere zones, from Europe to Asia and across North America. Although diverse in ecology, Iris is predominantly found in dry, semi-desert, or colder rocky mountainous areas. Other habitats include grassy slopes, meadowlands, woodland, bogs and riverbanks. Some irises like Iris setosa Pall. can tolerate damp (bogs) or dry sites (meadows), and Iris foetidissima can be found in woodland, hedge banks and scrub areas.
+
+
+== Diseases ==
+Narcissus mosaic virus is most commonly known from Narcissus. Wylie et al., 2014, made the first identification of Narcissus mosaic virus infecting this garden plant genus, and the first record in Australia. Japanese iris necrotic ring virus also, commonly infects this genus. It was, however, unknown in Australia until Wylie et al., 2012, identified it in Australia on I. ensata.
+
+
+== Cultivation ==
+
+Iris is extensively grown as ornamental plant in home and botanical gardens. Presby Memorial Iris Gardens in New Jersey, for example, is a living iris museum with over 10,000 plants, while in Europe the most famous iris garden is arguably the Giardino dell'Iris in Florence (Italy) which every year hosts a well attended iris breeders' competition. Irises, especially the multitude of bearded types, feature regularly in shows such as the Chelsea Flower Show.
+For garden cultivation, iris classification differs from taxonomic classification. Garden iris are classed as either bulb iris or rhizome iris (called rhizomatous) with a number of further subdivisions. Due to a wide variety of geographic origins, and thus great genetic diversity, cultivation needs of iris vary greatly.
+Generally, Irises grow well in most garden soil types providing they are well-drained, depending on the species. The earliest to bloom are species like I. reticulata and I. reichenbachii, which flower as early as February and March in the Northern Hemisphere, followed by the dwarf forms of I. pumila and others.  In May or June, most of the tall bearded varieties start to bloom, such as the German iris and its variety florentina, sweet iris, Hungarian iris, lemon-yellow iris (I. flavescens), Iris sambucina, and their natural and horticultural hybrids such as those described under names like I. neglecta or I. squalens and best united under I. × lurida.
+The iris is promoted in the United Kingdom by the British Iris Society. The National Collection of Arthur Bliss Irises is held in Gloucestershire.
+The American Iris Society is the International Cultivar Registration Authority for Iris, and recognises over 30,000 registered cultivar names.
+
+
+=== Bearded rhizome iris ===
+
+ 
+Bearded iris are classified as dwarf, tall, or aril. In Europe, the most commonly found garden iris is a hybrid iris (falsely called German iris, I. germanica which is sterile) and its numerous cultivars. Various wild forms (including Iris aphylla) and naturally occurring hybrids of the Sweet iris (I. pallida) and the Hungarian iris (I. variegata) form the basis of almost all modern hybrid bearded irises. Median forms of bearded iris (intermediate bearded, or IB; miniature tall bearded, or MTB; etc.) are derived from crosses between tall and dwarf species like Iris pumila.
+The "beard", short hairs arranged to look like a long furry caterpillar, is found toward the back of the lower petals and its purpose is to guide pollinating insects toward the reproductive parts of the plant. Bearded irises have been cultivated to have much larger blooms than historically; the flowers are now twice the size of those a hundred years ago. Ruffles were introduced in the 1960s to help stabilize the larger petals.
+Bearded iris are easy to cultivate and propagate and have become very popular in gardens. A small selection is usually held by garden centres at appropriate times during the season, but there are thousands of cultivars available from specialist suppliers (more than 30,000 cultivars of tall bearded iris). They are best planted as bare root plants in late summer, in a sunny open position with the rhizome visible on the surface of the soil and facing the sun. They should be divided in summer every two or three years, when the clumps become congested.
+A truly red bearded iris, like a truly blue rose, remains an unattained goal despite frequent hybridizing and selection. There are species and selections, most notably based on the beardless rhizomatous Copper iris (I. fulva), which have a relatively pure red color. However, getting this color into a modern bearded iris breed has proven very difficult, and thus, the vast majority of irises are in the purple and blue range of the color spectrum, with yellow, pink, orange and white breeds also available. Irises – like many related genera – lack red-based hues because their anthocyanins are delphinidin-derived. Pelargonidin-derived anthocyanins would lend the sought-after blue-based colors but these genera are metabolically disinclined to produce pelargonidin. Dihydroflavonol 4-reductases in Iris's relatives selectively do not catalyse dihydrokaempferol to leucopelargonidin, the precursor, and this is probably the case here as well. The other metabolic difficulty is the presence of flavonoid 3'-hydroxylase, which in Chrysanthemum inhibits pelargonidin synthesis. The bias in irises towards delphinidin-anthocyanins is so pronounced that they have served as the gene donors for transgenic attempts at the aforementioned blue roses. Although these have been technically successful – over 99% of their anthocyanins are blue – their growth is crippled and they have never been commercializable.
+
+
+==== AGM cultivars ====
+The following is a selection of bearded irises that have gained the Royal Horticultural Society's Award of Garden Merit:
+
+'Alizes' (tall bearded, blue & white)
+'Bumblebee Deelite' (miniature tall bearded, yellow/purple)
+'Early Light' (tall bearded, pale yellow)
+'Jane Phillips' (tall bearded, pale blue)
+'Langport Wren' (intermediate bearded, maroon)
+'Maui Moonlight' (intermediate bearded, pale yellow)
+'Orinoco Flow' (border bearded, white/violet)
+'Raspberry Blush' (intermediate bearded, pink)
+'Sarah Taylor' (dwarf bearded, pale yellow)
+'Thornbird' (tall bearded, pale yellow)
+'Titan's Glory' (tall bearded, deep blue)
+
+
+==== Bearded iris Oncocyclus section ====
+This section contains the cushion irises or royal irises, a group of plants noted for their large, strongly marked flowers. Between 30 and 60 species are classified in this section, depending on the authority. Species of section Oncocyclus are generally strict endemics, typically occurring in a small number of scattered, disjunct populations, whose geographical isolation is enhanced by their pollination strategy and myrmecochory seed dispersal. Morphological divergence between populations usually follows a cline reflecting local adaptation to environment conditions; furthermore, this largely overlaps divergence between species, making it difficult to identify discrete species boundaries in these irises. Compared with other irises, the cushion varieties are scantily furnished with narrow sickle-shaped leaves and the flowers are usually borne singly on the stalks; they are often very dark and in some almost blackish. The cushion irises are somewhat fastidious growers, and to be successful with them they must be planted rather shallow in very gritty well-drained soil. They should not be disturbed in the autumn, and after the leaves have withered the roots should be protected from heavy rains until growth starts again naturally.
+
+
+==== Bearded iris Regelia section ====
+This section, closely allied to the cushion irises, includes several garden hybrids with species in section Oncocyclus, known as Regelio-cyclus irises. They are best planted in September or October in warm sunny positions, the rhizomes being lifted the following July after the leaves have withered.
+
+
+=== Beardless rhizome iris (subgenus Limniris) ===
+There are six major subgroupings of the beardless iris, depending on origin. They are divided into Pacific Coast, Siberica, Spuria, Louisiana, Japanese, and other.
+Beardless rhizomatous iris types commonly found in the European garden are the Siberian iris (I. sibirica) and its hybrids, and the Japanese Iris (I. ensata) and its hybrids. "Japanese iris" is also a catch-all term for the Japanese iris proper (hanashōbu), the blood iris (I. sanguinea, ayame) and the rabbit-ear iris (I. laevigata, kakitsubata). I. unguicularis is a late-winter-flowering species from Algeria, with sky-blue flowers with a yellow streak in the centre of each petal, produced from Winter to Spring. Yet another beardless rhizomatous iris popular in gardening is I. ruthenica, which has much the same requirements and characteristics as the tall bearded irises. In North America, Louisiana iris and its hybrids are often cultivated.
+
+
+=== Crested rhizome iris (subgenus Limniris) ===
+One specific species, Iris cristata from North America.
+
+
+=== Bulbing juno iris (subgenus Scorpiris) ===
+Often called 'junos', this type of iris is one of the more popular bulb irises in cultivation. They are generally earliest to bloom.
+
+
+=== Bulbing European iris (subgenus Xiphium) ===
+This group includes irises generally of European descent, and are also classified as Dutch, English, or Spanish iris.
+
+Iris reticulata and Iris persica, both of which are fragrant, are also popular with florists.
+Iris xiphium, the Spanish Iris (also known as Dutch Iris) and
+Iris latifolia, the English Iris. Despite the common names both the Spanish and English iris are of Spanish origin, and have very showy flowers, so they are popular with gardeners and florists. They are among the hardier bulbous irises, and can be grown in northern Europe. They require to be planted in thoroughly drained beds in very light open soil, moderately enriched, and should have a rather sheltered position. Both these present a long series of varieties of the most diverse colours, flowering in May, June and July, the smaller Spanish iris being the earlier of the two.
+
+
+=== Bulbing reticulate iris (subgenus Hermodactyloides) ===
+Reticulate irises with their characteristic bulbs, including the yellow I. danfordiae, and the various blue-purple I. histrioides and I. reticulata, flower as early as February and March. These reticulate-bulbed irises are miniatures and popular spring bulbs, being one of the first to bloom in the garden. Many of the smaller species of bulbous iris, being liable to perish from excess of moisture, should have a well-drained bed of good but porous soil made up for them, in some sunny spot, and in winter should be protected by a covering of half-decayed leaves or fresh coco-fiber. 
+
+
+== Uses ==
+
+
+=== Aromatic rhizomes ===
+
+Rhizomes of the German iris (I. germanica) and sweet iris (I. pallida) are traded as orris root and are used in perfume and medicine, though more common in ancient times than today. Today, Iris essential oil (absolute) from flowers are sometimes used in aromatherapy as sedative medicines. The dried rhizomes are also given whole to babies to help in teething. Gin brands such as Bombay Sapphire and Magellan Gin use orris root and sometimes iris flowers for flavor and color.
+For orris root production, iris rhizomes are harvested, dried, and aged for up to 5 years. In this time, the fats and oils inside the roots undergo degradation and oxidation, which produces many fragrant compounds that are valuable in perfumery. The scent is said to be similar to violets. The aged rhizomes are steam-distilled which produces a thick oily compound, known in the perfume industry as "iris butter" or orris oil.
+Iris rhizomes also contain notable amounts of terpenes, and organic acids such as ascorbic acid, myristic acid, tridecylenic acid and undecylenic acid. Iris rhizomes can be toxic. Larger blue flag (I. versicolor) and other species often grown in gardens and widely hybridized contain elevated amounts of the toxic glycoside iridin. These rhizomes can cause nausea, vomiting, diarrhea, and/or skin irritation, but poisonings are not normally fatal. Irises should only be used medicinally under professional guidance.
+
+
+=== Water purification ===
+
+In water purification, yellow iris (I. pseudacorus) is often used. The roots are usually planted in a substrate (e.g. lava-stone) in a reedbed-setup. The roots then improve water quality by consuming nutrient pollutants, such as from agricultural runoff. This highly aggressive grower is now considered a noxious weed and prohibited in some states of the US where it is found clogging natural waterways.
+
+
+== In culture ==
+
+The iris has been used in art and as a symbol, including in heraldry. The symbolic meaning has evolved, in Christendom moving from a symbol of Mary mother of Jesus, to a French heraldic sign, the fleur-de-lis, and from French royalty it spread throughout Europe and beyond.
+
+
+=== Art ===
+
+Vincent van Gogh has painted several famous pictures of irises.
+The American artist Joseph Mason – a friend of John James Audubon – painted a precise image of what was then known as the Louisiana flag or copper iris (Iris fulva), to which Audubon subsequently added two Northern paraula birds (Parula americana) for inclusion as Plate 15 in his Birds of America.
+The artist Philip Hermogenes Calderon painted an iris in his 1856 work Broken Vows; he followed the principles of the Pre-Raphaelite Brotherhood. An ancient belief is that the iris serves as a warning to be heeded, as it was named for the messenger of Olympus. It also conveys images of lost love and silent grief, for young girls were led into the afterlife by the goddess Iris. Broken Vows was accompanied with poetry by Henry Wadsworth Longfellow when it was first exhibited.
+Contemporary artist George Gessert, who introduced the cultivation of flowers as an art form, has specialised in breeding irises.
+
+
+=== Local varieties as symbol ===
+Iris nigricans, the black iris is the national flower of Jordan.
+Iris bismarckiana, the Nazareth Iris, is the symbol of the city of Upper Nazareth.
+The Iris croatica is the unofficial national flower of Croatia.
+A stylized yellow iris is the symbol of Brussels, since historically the important Saint Gaugericus Island was carpeted in them. The iris symbol is now the sole feature on the flag of the Brussels-Capital Region.
+In 1998, Iris lacustris, the Dwarf Lake iris, was designated the state wildflower of Michigan, where the vast majority of populations exist.
+In 1990, the Louisiana iris was voted the state wildflower of Louisiana (see also fleur-de-lis:United States, New France), though the state flower is the magnolia blossom.
+An iris — species unspecified — is one of the state flowers of Tennessee. It is generally accepted that the species Iris versicolor, the Purple Iris, is the state flower alongside the wild-growing purple passionflower (Passiflora incarnata), the state's other floral emblem. Greeneville, Tennessee, is home to the annual Iris Festival celebrating the iris, local customs, and culture.
+The species Iris versicolor is also the provincial flower of Quebec, Canada, having replaced the Madonna lily which is not native to the province (see also fleur-de-lis: Canada). The provincial flag of Québec carries the harlequin blueflag (I. versicolor, iris versicolore in French).
+
+
+=== China ===
+It is thought in China that Iris anguifuga has the ability to keep snakes from entering the garden. It grows all winter, keeping snakes out, but then goes dormant in the spring, allowing the snakes back into the garden. In the autumn, the iris re-appears and can stop the snakes again.
+
+
+=== Ancient Greece ===
+In the Homeric Hymn to Demeter, the goddess Persephone and her companion nymphs (the Oceanids along with Artemis and Athena) were gathering flowers such as rose, crocus, violet, iris (also called 'agallis' or ἀγαλλίς (in Greek script), lily, larkspur, and hyacinth in a springtime meadow before she was abducted by the god Hades.
+It has been suggested that the 'agallis' mentioned was a dwarf iris, as described by leaf and root shape,) and identified as Iris attica.
+
+
+=== Muslim culture ===
+In Iran and Kashmir, Iris kashmiriana and Iris germanica are most commonly grown on Muslim grave yards.
+
+
+=== Fleur-de-lis and associated heraldry ===
+
+French King Clovis I (466–511), when he converted to Christianity, changed his symbol on his banner from three toads to irises (the Virgin's flower).
+The fleur-de-lis, a stylized iris, first occurs in its modern use as the emblem of the House of Capet. The fleur-de-lis has been associated with France since Louis VII adopted it as a symbol in the 12th century. The yellow fleur-de-lis reflects the yellow iris (I. pseudacorus), common in Western Europe. Contemporary uses can be seen in the Quebec flag and the logo of the New Orleans Saints professional football team and on the flag of Saint Louis, Missouri.
+The red fleur-de-lis in the coat-of-arms and flag of Florence, Italy, descends from the white iris which is native to Florence and which grew even in its city walls. This white iris displayed against a red background was the symbol of Florence until the Medici family reversed the colors to signal a change in political power, setting in motion a centuries-long and still on-going breeding program to hybridize a red iris.
+
+
+==== Scouting, fraternities & sororities ====
+The fleur-de-lis is the almost-universal symbol of Scouting and one of the symbols adopted by the sorority Kappa Kappa Gamma.
+The Iris versicolor is the official flower of Kappa Pi International Honorary Art Fraternity.
+
+
+=== Other ===
+The Iris is one of the flowers listed as birth flower for February.
+
+
+== Gallery ==
+
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+\t\t
+\t\t\t
+\t\t\t
+\t\t
+
+
+== See also ==
+American Iris Society
+Banshu Yamasaki Iris Garden
+
+
+== References ==
+
+
+=== Bibliography ===
+Chancery of the Prime Minister, Kingdom of Belgium (2007): Brussels Town Hall. Retrieved November 11, 2007.
+Kamenetsky, Rina; Okubo, Hiroshi, eds. (2012). "Iridaceae". Ornamental Geophytes: From Basic Science to Sustainable Production. CRC Press. p. 24. ISBN 978-1-4398-4924-8.
+Mancoff, Debra N (2003). Flora Symbolica: Flowers in Pre-Raphaelite Art. New York: Prestel Publishing. ISBN 3-7913-2851-4.
+Pioch, Nicolas (2002). Gogh, Vincent van: Irises. Retrieved December 10, 2008.
+Species Group of the British Iris Society (1996). A Guide to Species Irises: Their Identification and Cultivation. Cambridge: Cambridge University Press. ISBN 0-521-44074-2.
+West, Ruth (2008). "George Gessert". Archived from the original on 2006-05-16. Retrieved December 10, 2008.
+
+
+==== Taxonomy ====
+Baker, John Gilbert (2012). "Systematic Treatment of the Genus Iris". American Iris Society.
+Dykes, William Rickatson (1913). The Genus Iris. Cambridge: Cambridge University Press. ISBN 0486230376.
+Harris, Gwenda (2011). "Classification of Irises" (PDF). New Zealand Iris Society. Archived from the original (PDF) on 2018-01-27.
+Mathew, Brian (1989). The Iris. London: BT Batsford. ISBN 978-0713460391.
+Lawrence, George Hill Mathewson (1953). "A Reclassification of the Genus Iris". Gentes Herbarum. 8: 346–371.
+Rodionenko, GI (1987). The Genus Iris L. (Questions of Morphology, Biology, Evolution and Systematics). London: British Iris Society. ISBN 9780901483300. (translation)
+Taylor, JJ (1976). "A reclassification of Iris species bearing arillate seeds". Proceedings of the Biological Society of Washington. 89: 411–420.
+Wilson, Carol (2004). Phylogeny of the genus Iris based on DNA sequence data. Rancho Santa Ana Botanic Garden. Archived from the original on 2014-06-02.
+
+
+== External links ==
+
+Joseph Mason's painting – Copper Iris Copper Iris / Louisiana Flag (Iris cuprea) from John James Audubon's Birds of America
+Flora of North America: Iris
+Flora of China: Iris
+Flora of Pakistan: Iris
+Flora of Nepal: Iris
+A web site devoted to Irises, by David Payne-Joyce; includes plates from Dykes (1913).
+The American Iris Society
+Historic Iris Preservation Society
+An extensive website about Iris
+Iris listings at Wild Flowers of Israel
+Iris in Art and Culture
+Gouvernement du Québec Emblèmes du Québec – Iris versicolor Archived 2015-07-21 at the Wayback Machine (French)"}}}}

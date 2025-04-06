@@ -51,10 +51,47 @@ public class WikipediaScraper {
 
         final var outputDir = new File("./scraped/");
 
+        downloadMany(outputDir, in);
+
+
+
+        final var testData = new HashMap<String, List<String>>(){{
+            put("en", List.of(
+                    "Tautology_(logic)",
+                    "Iris_(plant)",
+                    "Bulb"
+            ));
+            put("pl", List.of(
+                    "Tautologia_(logika)",
+                    "Kosaciec",
+                    "Cebula_(botanika)"
+            ));
+            put("es", List.of(
+                    "Tautología",
+                    "Iris_(planta)",
+                    "Bulbo_(botánica)"
+            ));
+            put("fr", List.of(
+                    "Tautologie_(logique)",
+                    "Iris_(genre_végétal)",
+                    "Bulbe"
+            ));
+        }};
+
+        final var testOutputDir = new File("./scraped_testing/");
+
+        downloadMany(testOutputDir, testData);
+
+
+    }
+
+
+    public static void downloadMany(File outputDir, HashMap<String, List<String>> stuff) throws Exception {
+
         if (outputDir.mkdirs())
             System.out.println("[WikipediaScraper] Created output dir.");
 
-        for (final var entry : in.entrySet()) {
+        for (final var entry : stuff.entrySet()) {
             final var lang = entry.getKey();
 
             final var langDir = new File(outputDir, lang);
@@ -67,9 +104,15 @@ public class WikipediaScraper {
             for (final var topic : topics) {
                 final var outputFile = new File(langDir, "wiki_" + topic + ".txt");
 
+                if (outputFile.exists()) {
+                    System.out.println("[WikipediaScraper] File already exists: " + outputFile.getAbsolutePath());
+                    continue;
+                }
+
                 scrapeWikipedia(lang, topic, outputFile);
             }
         }
+
     }
 
 

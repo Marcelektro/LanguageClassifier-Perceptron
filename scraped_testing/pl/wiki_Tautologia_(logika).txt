@@ -1,0 +1,27 @@
+Tautologia (wywodzi się od greckich słów ταὐτός tautós „ten sam” i λόγος lógos „mowa”) – wyrażenie, które jest zawsze prawdziwe. 
+W logicznym znaczeniu zostało użyte po raz pierwszy przez Ludwika Wittgensteina (Tractatus logico-philosophicus 1922).
+Tak rozumianymi tautologiami są wszystkie prawa klasycznego rachunku zdań i rachunku kwantyfikatorów. Rozumie się przez nie:
+
+Definicja tautologii w klasycznym rachunku zdań przedstawia się następująco: Wyrażenie W jest tautologią klasycznego rachunku zdań, wtedy i tylko wtedy, gdy przy każdym podstawieniu stałych za zmienne przechodzi w zdanie prawdziwe.
+Definicja tautologii w rachunku kwantyfikatorów przedstawia się następująco: Zdanie z zawierające predykaty P1, P2, …, Pn, jest tautologią rachunku kwantyfikatorów wtedy i tylko wtedy, gdy jest prawdziwe w każdej niepustej dziedzinie przy dowolnym rozumieniu symboli P1, P2, …, Pn, jako wyrażeń odnoszących się do pewnych własności lub relacji a priori danej dziedziny.
+Definicja tautologii w rachunku kwantyfikatorów przy użyciu interpretacji: Formuła zdaniowa A języka L jest tautologią wtedy i tylko wtedy, gdy formuła zdaniowa A jest prawdziwa przy każdej interpretacji języka L.
+Tautologie logiczne są to zdania a priori analityczne – niezależne od doświadczenia (konieczne i powszechne). Tautologie potoczne – wypowiadające to tylko, co zawarte jest w podmiocie gramatycznym zdania, objaśniają (przekładają) tylko wiedzę już w nim zawartą – orzecznik jest przekładem podmiotu – np. „Trójkąt ma trzy kąty”, „Trójkąt jest figurą geometryczną” (bo definicja – np. „Trójkąt to figura geometryczna płaska, o trzech kątach”). Ich przeciwieństwem są zdania a posteriori syntetyczne – uzyskane na podstawie doświadczenia, wypowiadające w orzeczniku coś, co nie jest zawarte w podmiocie zdania, rozszerzają wiedzę – orzecznik nie jest przekładem podmiotu – np. „Ziemia nie jest płaska”.
+Przykłady tautologii:
+
+Deszcz pada albo nie pada.
+Idę albo nie idę.
+Jeśli nie jestem i nauczycielem, i hydraulikiem, to nie jestem nauczycielem lub nie jestem hydraulikiem.
+
+
+== Zobacz też ==
+
+kontrtautologia
+rachunek zdań
+tautonim
+
+
+== Przypisy ==
+
+
+== Bibliografia ==
+WitoldW. Marciszewski WitoldW. (red.), Mała encyklopedia logiki, Wrocław, Warszawa, Kraków, Gdańsk, Łódź: Zakład Narodowy imienia Ossolińskich, 1988 . Brak numerów stron w książce"}}}}

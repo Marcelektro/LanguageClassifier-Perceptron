@@ -1,0 +1,28 @@
+En logique mathématique, la tautologie est une proposition toujours vraie selon les règles du calcul propositionnel.
+
+
+== Calcul propositionnel ==
+
+En calcul propositionnel, à la suite du Tractatus logico-philosophicus de Wittgenstein paru en 1921, on appelle tautologie (du calcul propositionnel) une proposition (ou énoncé) toujours vraie, c'est-à-dire vraie quelle que soit la valeur de vérité, vraie ou fausse, de ses constituants élémentaires. Dit autrement, la table de vérité de cet énoncé prend toujours la valeur vrai. Par exemple « s'il fait beau, alors il fait beau » qui est de la forme « si A, alors A » (ou « A implique A ») est une tautologie. Les tautologies ainsi définies peuvent paraître sans réelle signification, n'apporter aucune information. Si c'est bien le cas de celle précitée, les tautologies propositionnelles peuvent tout de même être bien plus complexes. Affirmer que « de A1, … , An on déduit B », revient à affirmer que la proposition « si A1, … , si An alors B » est une tautologie. Or, comme le remarque Kleene le raisonnement logique ordinaire revient à manier de telles relations de déduction (pas forcément dans le cadre du calcul propositionnel).
+Il reste qu'en calcul propositionnel classique, la question de savoir si un énoncé donné est une tautologie est décidable, c'est-à-dire que cette question peut être théoriquement résolue de façon purement mécanique, par exemple par les tables de vérité. Cependant, ce problème est co-NP-complet, le temps de calcul devient rapidement prohibitif (du moins dans l'état actuel des connaissances).
+
+
+== Calcul des prédicats ==
+En calcul des prédicats, on appelle universellement valide un énoncé (formule close) qui est vrai dans tous les modèles (où elle a un sens). Cette notion n'est pas en général décidable, la vérité ne se définit pas de façon mécanique, les modèles pouvant être infinis.
+Aussi, un usage courant en logique mathématique est d'appeler tautologie du calcul des prédicats une formule close obtenue à partir d'une tautologie du calcul propositionnel en substituant aux variables propositionnelles des formules du calcul des prédicats. Par exemple, P étant un prédicat à une place, « Pour tout x P(x) implique Pour tout x P(x) » est une tautologie obtenue à partir de la tautologie propositionnelle précédente. Une telle formule est bien universellement valide, mais une formule peut être universellement valide sans être une tautologie. Par exemple « Pour tout x P(x) implique Il existe x P(x) » est universellement valide (les modèles sont supposés toujours avoir au moins un élément), mais n'est pas une tautologie. Comme les tautologies sont décidables, cela a un sens de formaliser la déduction en prenant pour axiomes toutes les tautologies du calcul des prédicats.
+
+
+== Notes et références ==
+Cet article est partiellement ou en totalité issu de l'article intitulé « Tautologie » (voir la liste des auteurs).
+
+
+=== Références ===
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Paradoxe de Hempel
+
+ Portail de la logique   Portail de la philosophie   Portail de la linguistique"}}}}
